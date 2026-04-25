@@ -18,6 +18,36 @@
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
+    },
+    {
+      "id": "maestro",
+      "version": "1.0.0",
+      "module": "core",
+      "displayName": "Maestro",
+      "title": "Menu-driven orchestrator — numbered choices, deterministic dispatch",
+      "icon": "🎭",
+      "description": "Orquestrador previsível baseado em menus numerados. Complemento do Zeus: quando você quer escolher de uma lista clara, chame o Maestro.",
+      "tags": ["orchestrator", "menu-driven", "workflow-dispatcher", "core"],
+      "path": "bundles/maestro",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "scribe",
+      "version": "1.0.0",
+      "module": "core",
+      "displayName": "Scribe",
+      "title": "Documentation specialist — turns scattered context into clean prose",
+      "icon": "📜",
+      "description": "Sintetiza código, conversas e decisões em documentação precisa. Mantém READMEs, CLAUDE.md e ADRs alinhados com o estado real do código.",
+      "tags": ["documentation", "readme", "claude-md", "core"],
+      "path": "bundles/scribe",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
     }
   ]
 }
