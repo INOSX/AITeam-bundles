@@ -1,9 +1,144 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-04-25T00:00:00.000Z",
+  "updatedAt": "2026-04-25T22:56:51.716Z",
   "platform": "aiteam-x",
   "bundles": [
+    {
+      "id": "aphrodite",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Aphrodite",
+      "title": "UX designer — visual exploration and informed UX decisions",
+      "icon": "💗",
+      "description": "Workflow facilitado de UX — gera opções visuais, conversa com usuário, produz design fundamentado em vez de template.",
+      "tags": [
+        "ux",
+        "design",
+        "visual"
+      ],
+      "path": "bundles/aphrodite",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "apollo",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Apollo",
+      "title": "Product manager — PRDs that turn vision into shippable epics",
+      "icon": "☀️",
+      "description": "Transforma visão de produto em PRD acionável: épicos quebrados em stories de 200k tokens, prontas pro ciclo dev.",
+      "tags": [
+        "product",
+        "prd",
+        "epics",
+        "vision"
+      ],
+      "path": "bundles/apollo",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "athena",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Athena",
+      "title": "Business analyst — domain knowledge, requirements, market signals",
+      "icon": "🦉",
+      "description": "Investigação de domínio, mapeamento de stakeholders e síntese de requisitos antes de qualquer código existir.",
+      "tags": [
+        "analyst",
+        "research",
+        "discovery"
+      ],
+      "path": "bundles/athena",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "calliope",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Calliope",
+      "title": "Tech writer — turns code and decisions into documentation that ages well",
+      "icon": "📜",
+      "description": "Musa da poesia épica — transforma decisões dispersas em prosa documental que sobrevive ao tempo. Complemento do Scribe para documentação técnica longa-forma.",
+      "tags": [
+        "docs",
+        "tech-writing",
+        "knowledge"
+      ],
+      "path": "bundles/calliope",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "chronos",
+      "version": "1.0.0",
+      "module": "gamedev",
+      "displayName": "Chronos",
+      "title": "Game scrum master — sprint cadence, milestone tracking for game projects",
+      "icon": "⏳",
+      "description": "Variante gamedev do Hermes — gerencia milestone tracking de projetos de jogo, ritmo de release, integração com publisher se aplicável.",
+      "tags": [
+        "game",
+        "scrum",
+        "milestones"
+      ],
+      "path": "bundles/chronos",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "daedalus",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Daedalus",
+      "title": "Developer — implements stories from spec to merged code",
+      "icon": "⚙️",
+      "description": "Executa stories prontas: lê contexto, implementa, testa, marca DoD. O artesão do labirinto, transforma spec em código.",
+      "tags": [
+        "developer",
+        "implementation",
+        "stories"
+      ],
+      "path": "bundles/daedalus",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "dionysus",
+      "version": "1.0.0",
+      "module": "gamedev",
+      "displayName": "Dionysus",
+      "title": "Game designer — GDD, mechanics, progression, narrative design",
+      "icon": "🎭",
+      "description": "Deus do teatro — game design document completo, mecânicas, progressão e design narrativo para jogos story-driven.",
+      "tags": [
+        "game",
+        "design",
+        "gdd",
+        "narrative"
+      ],
+      "path": "bundles/dionysus",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
     {
       "id": "echo",
       "version": "1.0.0",
@@ -12,8 +147,91 @@
       "title": "Reference bundle — minimal viable AITEAM-X agent",
       "icon": "🔁",
       "description": "The smallest valid AITEAM-X bundle. Reference fixture for the wizard and validator.",
-      "tags": ["reference", "minimal", "test-fixture"],
+      "tags": [
+        "reference",
+        "minimal",
+        "test-fixture"
+      ],
       "path": "bundles/echo",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "fortuna",
+      "version": "1.0.0",
+      "module": "builder",
+      "displayName": "Fortuna",
+      "title": "Arena signals — competitive analysis, leaderboards, market intel",
+      "icon": "🎲",
+      "description": "Lê dados da arena (challenges, leaderboards, submissões), agrega sinais competitivos e propõe ações táticas para o time.",
+      "tags": [
+        "arena",
+        "signals",
+        "leaderboard",
+        "intel"
+      ],
+      "path": "bundles/fortuna",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "gaia",
+      "version": "1.0.0",
+      "module": "gamedev",
+      "displayName": "Gaia",
+      "title": "Game architect — engine, systems, networking, technical design for games",
+      "icon": "🌍",
+      "description": "Documento arquitetural focado em decisão para games: engine, sistemas, networking, performance, otimização.",
+      "tags": [
+        "game",
+        "architecture",
+        "engine",
+        "systems"
+      ],
+      "path": "bundles/gaia",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "hermes",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Hermes",
+      "title": "Scrum master — sprint planning, status, course corrections",
+      "icon": "🪽",
+      "description": "Mensageiro entre os agentes — gerencia sprints, traz status, propõe correções de curso, conduz retros.",
+      "tags": [
+        "scrum",
+        "process",
+        "facilitation"
+      ],
+      "path": "bundles/hermes",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "janus",
+      "version": "1.0.0",
+      "module": "builder",
+      "displayName": "Janus",
+      "title": "Module builder — creates new modules, agents, workflows for the platform",
+      "icon": "🗝️",
+      "description": "Deus de duas faces — olha pra trás (auditoria, conversão de formato) e pra frente (criação de módulos novos). Estende o pack.",
+      "tags": [
+        "builder",
+        "platform",
+        "modules",
+        "workflows"
+      ],
+      "path": "bundles/janus",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
@@ -27,8 +245,53 @@
       "title": "Menu-driven orchestrator — numbered choices, deterministic dispatch",
       "icon": "🎭",
       "description": "Orquestrador previsível baseado em menus numerados. Complemento do Zeus: quando você quer escolher de uma lista clara, chame o Maestro.",
-      "tags": ["orchestrator", "menu-driven", "workflow-dispatcher", "core"],
+      "tags": [
+        "orchestrator",
+        "menu-driven",
+        "workflow-dispatcher",
+        "core"
+      ],
       "path": "bundles/maestro",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "peitho",
+      "version": "1.0.0",
+      "module": "nex",
+      "displayName": "Peitho",
+      "title": "Marketing & persuasion — messaging, positioning, prospecting for the nex module",
+      "icon": "✨",
+      "description": "Trabalha no módulo nex (negócios INOSX) — messaging, positioning, prospect outreach, copy persuasivo baseado em dados de mercado.",
+      "tags": [
+        "marketing",
+        "messaging",
+        "positioning",
+        "nex"
+      ],
+      "path": "bundles/peitho",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "prometheus",
+      "version": "1.0.0",
+      "module": "gamedev",
+      "displayName": "Prometheus",
+      "title": "Game developer — implements game stories, gameplay code, tooling",
+      "icon": "🔥",
+      "description": "Implementa stories de jogo — código de gameplay, prototipagem de mecânica, tooling de desenvolvimento. Variante do Daedalus para o módulo gamedev.",
+      "tags": [
+        "game",
+        "developer",
+        "gameplay",
+        "implementation"
+      ],
+      "path": "bundles/prometheus",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
@@ -42,8 +305,52 @@
       "title": "Documentation specialist — turns scattered context into clean prose",
       "icon": "📜",
       "description": "Sintetiza código, conversas e decisões em documentação precisa. Mantém READMEs, CLAUDE.md e ADRs alinhados com o estado real do código.",
-      "tags": ["documentation", "readme", "claude-md", "core"],
+      "tags": [
+        "documentation",
+        "readme",
+        "claude-md",
+        "core"
+      ],
       "path": "bundles/scribe",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "themis",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Themis",
+      "title": "Test architect — test strategy, ATDD, NFR assessment, quality gates",
+      "icon": "⚖️",
+      "description": "Define estratégia de teste, quebra requisitos em ATDD, avalia NFRs, gera matriz de rastreabilidade e decide quality gate.",
+      "tags": [
+        "test",
+        "quality",
+        "atdd",
+        "nfr"
+      ],
+      "path": "bundles/themis",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "vulcan",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Vulcan",
+      "title": "Software architect — decision-driven architecture documents",
+      "icon": "🔨",
+      "description": "Documenta decisões arquiteturais para evitar conflito entre agentes downstream. Foco em decisões, não em diagramas decorativos.",
+      "tags": [
+        "architecture",
+        "tech-decisions",
+        "solutioning"
+      ],
+      "path": "bundles/vulcan",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
