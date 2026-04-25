@@ -1,0 +1,23 @@
+{
+  "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
+  "catalogVersion": "1",
+  "updatedAt": "2026-04-25T00:00:00.000Z",
+  "platform": "aiteam-x",
+  "bundles": [
+    {
+      "id": "echo",
+      "version": "1.0.0",
+      "module": "core",
+      "displayName": "Echo",
+      "title": "Reference bundle — minimal viable AITEAM-X agent",
+      "icon": "🔁",
+      "description": "The smallest valid AITEAM-X bundle. Reference fixture for the wizard and validator.",
+      "tags": ["reference", "minimal", "test-fixture"],
+      "path": "bundles/echo",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    }
+  ]
+}

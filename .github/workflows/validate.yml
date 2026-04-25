@@ -1,0 +1,27 @@
+name: validate-bundles
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install validator deps
+        run: npm install --no-save ajv@8 ajv-formats@3 gray-matter@4
+
+      - name: Validate every bundle
+        run: node scripts/validate.mjs
+
+      - name: Verify catalog matches filesystem
+        run: node scripts/check-catalog.mjs

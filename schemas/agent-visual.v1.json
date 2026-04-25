@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aiteam-x.inosx.io/schemas/agent-visual.v1.json",
+  "title": "AITEAM-X Agent Visual",
+  "description": "Schema for visual.json inside an agent bundle. Drives the pixel-art card and avatar in the dashboard.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["color", "accentHex", "glyphLetter", "glyphPath"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "const": "https://aiteam-x.inosx.io/schemas/agent-visual.v1.json"
+    },
+    "color": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["from", "to", "ink"],
+      "properties": {
+        "from": { "$ref": "#/$defs/hex" },
+        "to":   { "$ref": "#/$defs/hex" },
+        "ink":  { "$ref": "#/$defs/hex" }
+      }
+    },
+    "accentHex": { "$ref": "#/$defs/hex" },
+    "glyphLetter": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2,
+      "description": "Single uppercase letter shown as fallback when glyphPath fails to render."
+    },
+    "glyphPath": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 2000,
+      "pattern": "^[MmLlHhVvCcSsQqTtAaZz0-9 ,.\\-]+$",
+      "description": "SVG path string for the agent glyph. Drawn on a 100x100 viewBox."
+    }
+  },
+  "$defs": {
+    "hex": {
+      "type": "string",
+      "pattern": "^#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})$"
+    }
+  }
+}

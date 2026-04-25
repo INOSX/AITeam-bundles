@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aiteam-x.inosx.io/schemas/agent-bundle.v1.json",
+  "title": "AITEAM-X Agent Bundle Manifest",
+  "description": "Schema for manifest.json inside an AITEAM-X agent bundle. One manifest per agent. Source of truth — _cfg/agent-manifest.csv is regenerated from this.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "bundleVersion",
+    "id",
+    "displayName",
+    "title",
+    "icon",
+    "module",
+    "version",
+    "role",
+    "identity",
+    "communicationStyle",
+    "principles"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "const": "https://aiteam-x.inosx.io/schemas/agent-bundle.v1.json"
+    },
+    "bundleVersion": {
+      "type": "string",
+      "const": "1",
+      "description": "Bundle schema version. Increments on breaking changes."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]{1,38}[a-z0-9]$",
+      "description": "Unique agent id, kebab-case, 3-40 chars. Used in URLs, file paths, manifests."
+    },
+    "displayName": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 60
+    },
+    "title": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 200,
+      "description": "Short professional title shown in the UI."
+    },
+    "icon": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 4,
+      "description": "Single emoji or short glyph fallback when visual.json glyphPath is unavailable."
+    },
+    "module": {
+      "type": "string",
+      "enum": ["core", "dev", "builder", "gamedev", "nex"],
+      "description": "Module the agent belongs to. Determines default location in the dashboard 2D scene."
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+(-[0-9A-Za-z.-]+)?$",
+      "description": "Semantic version of THIS bundle (independent of platform version)."
+    },
+    "author": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "platformCompatibility": {
+      "type": "string",
+      "description": "Semver range of AITEAM-X platform this bundle supports (e.g. '>=0.22.0')."
+    },
+    "role": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 240
+    },
+    "identity": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 1200
+    },
+    "communicationStyle": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 600
+    },
+    "principles": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 800
+    },
+    "workflows": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+      "uniqueItems": true,
+      "default": [],
+      "description": "IDs of workflows this agent ships with or depends on. Must exist in _cfg/workflow-manifest.csv after install."
+    },
+    "tasks": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+      "uniqueItems": true,
+      "default": []
+    },
+    "uses": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9_]+$" },
+      "uniqueItems": true,
+      "default": [],
+      "description": "Tool ids the agent expects (snake_case per harness convention). Must be registered in lib/harness/tools/."
+    },
+    "builtin": {
+      "type": "boolean",
+      "default": false,
+      "description": "Platform-shipped bundle. Cannot be uninstalled. Reserved for INOSX-published bundles only."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true,
+      "default": []
+    },
+    "homepage": { "type": "string", "format": "uri" },
+    "repository": { "type": "string", "format": "uri" },
+    "license": { "type": "string" }
+  }
+}
