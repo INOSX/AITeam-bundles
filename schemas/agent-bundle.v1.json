@@ -53,7 +53,7 @@
     },
     "module": {
       "type": "string",
-      "enum": ["core", "dev", "builder", "gamedev", "nex"],
+      "enum": ["core", "dev", "builder", "gamedev", "nex", "marketing"],
       "description": "Module the agent belongs to. Determines default location in the dashboard 2D scene."
     },
     "version": {

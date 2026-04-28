@@ -1,7 +1,7 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-04-25T22:56:51.716Z",
+  "updatedAt": "2026-04-28T20:48:00.233Z",
   "platform": "aiteam-x",
   "bundles": [
     {
@@ -272,6 +272,28 @@
         "nex"
       ],
       "path": "bundles/peitho",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "plutus",
+      "version": "1.0.0",
+      "module": "marketing",
+      "displayName": "Plutus",
+      "title": "Copywriter for X — sales psychology, hooks, image briefs, post-ready content",
+      "icon": "🪙",
+      "description": "Copywriter para o X com DNA de psicologia de vendas. Escreve posts prontos pra colar (texto + alt + link + UTM), gera brief visual e PNG (quando OpenAI disponível).",
+      "tags": [
+        "marketing",
+        "copywriting",
+        "social",
+        "x",
+        "twitter",
+        "sales-psychology"
+      ],
+      "path": "bundles/plutus",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
