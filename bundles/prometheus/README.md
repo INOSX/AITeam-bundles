@@ -5,7 +5,7 @@ Implementa stories de jogo — código de gameplay, prototipagem de mecânica, t
 **Módulo**: `gamedev`
 **Role**: Game Developer + Gameplay Programmer
 **Workflows**: `dev-story`, `create-story`, `story-context`, `story-ready`, `story-done`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `run_bash`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `run_bash`, `browser_snapshot`
 
 ## Origem
 

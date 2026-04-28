@@ -25,7 +25,8 @@
     "list_directory",
     "search_files",
     "write_file",
-    "edit_file"
+    "edit_file",
+    "browser_snapshot"
   ],
   "builtin": false,
   "tags": [

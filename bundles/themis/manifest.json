@@ -31,7 +31,8 @@
     "search_files",
     "write_file",
     "edit_file",
-    "run_bash"
+    "run_bash",
+    "browser_snapshot"
   ],
   "builtin": false,
   "tags": [

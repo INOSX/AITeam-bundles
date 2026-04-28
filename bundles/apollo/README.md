@@ -5,7 +5,7 @@ Transforma visão de produto em PRD acionável: épicos quebrados em stories de 
 **Módulo**: `dev`
 **Role**: Product Manager + PRD Author
 **Workflows**: `product-brief`, `prd`, `create-epics-and-stories`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

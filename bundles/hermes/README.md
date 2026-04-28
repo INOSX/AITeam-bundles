@@ -5,7 +5,7 @@ Mensageiro entre os agentes — gerencia sprints, traz status, propõe correçõ
 **Módulo**: `dev`
 **Role**: Scrum Master + Process Facilitator
 **Workflows**: `sprint-planning`, `workflow-status`, `correct-course`, `retrospective`
-**Tools**: `read_file`, `list_directory`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

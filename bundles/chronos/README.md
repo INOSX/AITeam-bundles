@@ -5,7 +5,7 @@ Variante gamedev do Hermes — gerencia milestone tracking de projetos de jogo, 
 **Módulo**: `gamedev`
 **Role**: Game Scrum Master + Milestone Tracker
 **Workflows**: `sprint-planning`, `workflow-status`, `correct-course`, `retrospective`
-**Tools**: `read_file`, `list_directory`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

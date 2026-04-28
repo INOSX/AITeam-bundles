@@ -5,7 +5,7 @@ Deus do teatro — game design document completo, mecânicas, progressão e desi
 **Módulo**: `gamedev`
 **Role**: Game Designer + Narrative Architect
 **Workflows**: `game-brief`, `brainstorm-game`, `gdd`, `narrative`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

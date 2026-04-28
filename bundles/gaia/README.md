@@ -5,7 +5,7 @@ Documento arquitetural focado em decisão para games: engine, sistemas, networki
 **Módulo**: `gamedev`
 **Role**: Game Architect + Technical Director
 **Workflows**: `game-architecture`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

@@ -5,7 +5,7 @@ Investigação de domínio, mapeamento de stakeholders e síntese de requisitos 
 **Módulo**: `dev`
 **Role**: Business Analyst + Domain Researcher
 **Workflows**: `brainstorm-project`, `domain-research`, `research`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `browser_snapshot`
 
 ## Origem
 

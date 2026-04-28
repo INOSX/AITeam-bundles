@@ -16,9 +16,17 @@
   "principles": "Be predictable. Be small. Never claim to do work you did not do. Defer to specialists when the task is non-trivial.",
   "workflows": [],
   "tasks": [],
-  "uses": ["read_file", "list_directory"],
+  "uses": [
+    "read_file",
+    "list_directory",
+    "browser_snapshot"
+  ],
   "builtin": false,
-  "tags": ["reference", "minimal", "test-fixture"],
+  "tags": [
+    "reference",
+    "minimal",
+    "test-fixture"
+  ],
   "homepage": "https://github.com/INOSX/AITeam-bundles",
   "repository": "https://github.com/INOSX/AITeam-bundles",
   "license": "MIT"

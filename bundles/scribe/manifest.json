@@ -16,9 +16,21 @@
   "principles": "Documentação reflete o código de hoje, não a intenção de ontem. Verifico antes de afirmar. Prefiro deletar texto desatualizado a manter algo que mente.",
   "workflows": [],
   "tasks": [],
-  "uses": ["read_file", "list_directory", "search_files", "edit_file", "write_file"],
+  "uses": [
+    "read_file",
+    "list_directory",
+    "search_files",
+    "edit_file",
+    "write_file",
+    "browser_snapshot"
+  ],
   "builtin": false,
-  "tags": ["documentation", "readme", "claude-md", "core"],
+  "tags": [
+    "documentation",
+    "readme",
+    "claude-md",
+    "core"
+  ],
   "homepage": "https://github.com/INOSX/AITeam-bundles",
   "repository": "https://github.com/INOSX/AITeam-bundles",
   "license": "MIT"

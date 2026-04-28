@@ -5,7 +5,7 @@ Lê dados da arena (challenges, leaderboards, submissões), agrega sinais compet
 **Módulo**: `builder`
 **Role**: Arena Analyst + Signal Aggregator
 **Workflows**: —
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

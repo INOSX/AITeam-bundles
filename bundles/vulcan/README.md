@@ -5,7 +5,7 @@ Documenta decisões arquiteturais para evitar conflito entre agentes downstream.
 **Módulo**: `dev`
 **Role**: Software Architect + Tech Decision Facilitator
 **Workflows**: `architecture`, `tech-spec`, `solutioning-gate-check`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

@@ -5,7 +5,7 @@ Trabalha no módulo nex (negócios INOSX) — messaging, positioning, prospect o
 **Módulo**: `nex`
 **Role**: Marketing Strategist + Persuasion Architect
 **Workflows**: —
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 

@@ -5,7 +5,7 @@ Executa stories prontas: lê contexto, implementa, testa, marca DoD. O artesão 
 **Módulo**: `dev`
 **Role**: Developer + Story Executor
 **Workflows**: `dev-story`, `create-story`, `story-context`, `story-ready`, `story-done`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `run_bash`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `run_bash`, `browser_snapshot`
 
 ## Origem
 
