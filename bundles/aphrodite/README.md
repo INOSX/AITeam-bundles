@@ -5,7 +5,7 @@ Workflow facilitado de UX — gera opções visuais, conversa com usuário, prod
 **Módulo**: `dev`
 **Role**: UX Designer + Visual Explorer
 **Workflows**: `create-ux-design`
-**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`
+**Tools**: `read_file`, `list_directory`, `search_files`, `write_file`, `edit_file`, `browser_snapshot`
 
 ## Origem
 
