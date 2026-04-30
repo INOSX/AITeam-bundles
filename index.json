@@ -377,8 +377,7 @@
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
-    }
-,
+    },
     {
       "id": "ptah",
       "version": "1.0.0",
@@ -396,6 +395,29 @@
         "bundle"
       ],
       "path": "bundles/ptah",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "seshat",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Seshat",
+      "title": "Design engineer — UI polish, animations, easing, component craft",
+      "icon": "📐",
+      "description": "Deusa egípcia da precisão e da medida. Revisa e melhora UI, animações CSS, easing curves, gestos e performance de renderização seguindo a filosofia de design engineering do Emil Kowalski.",
+      "tags": [
+        "design-engineering",
+        "animations",
+        "css",
+        "easing",
+        "ui-polish",
+        "performance",
+        "accessibility"
+      ],
+      "path": "bundles/seshat",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
