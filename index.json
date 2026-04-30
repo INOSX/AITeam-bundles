@@ -1,7 +1,7 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-04-28T20:48:00.233Z",
+  "updatedAt": "2026-04-30T00:00:00.000Z",
   "platform": "aiteam-x",
   "bundles": [
     {
@@ -373,6 +373,29 @@
         "solutioning"
       ],
       "path": "bundles/vulcan",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    }
+,
+    {
+      "id": "ptah",
+      "version": "1.0.0",
+      "module": "builder",
+      "displayName": "Ptah",
+      "title": "Bundle forge — creates and edits AITEAM-X agents, modules and workflows",
+      "icon": "🔨",
+      "description": "Deus ferreiro egípcio que forja outros agentes do pack. Cria bundles válidos (manifest.json + visual.json + agent.md + README.md) seguindo os schemas v1 do catálogo INOSX/AITeam-bundles, valida com Ajv antes de entregar e registra nos manifests da plataforma.",
+      "tags": [
+        "builder",
+        "forge",
+        "agent-creator",
+        "module-creator",
+        "workflow-creator",
+        "bundle"
+      ],
+      "path": "bundles/ptah",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
