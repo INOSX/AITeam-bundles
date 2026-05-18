@@ -6,7 +6,7 @@
   "title": "Senior UX Designer — Visual exploration and informed UX decisions",
   "icon": "🎨",
   "module": "dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "INOSX",
   "description": "Workflow facilitado de UX — gera opções visuais, conversa com usuário, produz design fundamentado em vez de template.",
   "platformCompatibility": ">=0.22.0",

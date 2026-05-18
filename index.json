@@ -1,12 +1,12 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-05-16T20:59:22.159Z",
+  "updatedAt": "2026-05-18T11:28:44.830Z",
   "platform": "aiteam-x",
   "bundles": [
     {
       "id": "aphrodite",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "module": "dev",
       "displayName": "Sofia Martins",
       "title": "Senior UX Designer — Visual exploration and informed UX decisions",
@@ -146,7 +146,7 @@
       "displayName": "Linh Nguyen",
       "title": "Reference Agent — minimal viable AITEAM-X agent",
       "icon": "🔁",
-      "description": "The smallest valid AITEAM-X bundle. Reference fixture for the wizard and validator.",
+      "description": "The smallest valid AITEAM-X bundle. Used by the platform as the canonical example for the bundle wizard, the validator, and integration tests.",
       "tags": [
         "reference",
         "minimal",
@@ -267,7 +267,7 @@
       "displayName": "Mykola Kovalenko",
       "title": "Lead Orchestrator — numbered choices, deterministic dispatch",
       "icon": "🎭",
-      "description": "Orquestrador previsível baseado em menus numerados. Complemento do Zeus: quando você quer escolher de uma lista clara, chame o Maestro.",
+      "description": "Orquestrador previsível baseado em menus numerados. Complemento do Zeus: quando você quer escolher de uma lista clara, chame o Maestro; quando quer um parceiro proativo que age sozinho, chame o Zeus.",
       "tags": [
         "orchestrator",
         "menu-driven",
@@ -371,7 +371,7 @@
       "displayName": "Darius Farahani",
       "title": "Documentation Specialist — turns scattered context into clean prose",
       "icon": "📜",
-      "description": "Sintetiza código, conversas e decisões em documentação precisa. Mantém READMEs, CLAUDE.md e ADRs alinhados com o estado real do código.",
+      "description": "Synthesizes code, conversations and decisions into accurate, terse documentation. Keeps READMEs, CLAUDE.md and architectural notes current as the codebase evolves.",
       "tags": [
         "documentation",
         "readme",
@@ -445,6 +445,25 @@
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
+    },
+    {
+      "id": "zeus",
+      "version": "1.0.1",
+      "module": "core",
+      "displayName": "Adebayo Okonkwo",
+      "title": "Chief Orchestrator — Master Executor & Platform Custodian",
+      "icon": "🎯",
+      "description": "Platform-native agent — distributed with the installer, cannot be removed",
+      "tags": [
+        "orchestrator",
+        "platform",
+        "builtin"
+      ],
+      "path": "bundles/zeus",
+      "author": "AITEAM-X Platform",
+      "license": "MIT",
+      "platformCompatibility": ">=0.1.0",
+      "builtin": true
     }
   ]
 }
