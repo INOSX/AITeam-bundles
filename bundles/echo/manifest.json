@@ -6,7 +6,7 @@
   "title": "Reference Agent — minimal viable AITEAM-X agent",
   "icon": "🔁",
   "module": "core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "INOSX",
   "description": "The smallest valid AITEAM-X bundle. Used by the platform as the canonical example for the bundle wizard, the validator, and integration tests.",
   "platformCompatibility": ">=0.22.0",

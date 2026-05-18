@@ -6,7 +6,7 @@
   "title": "Documentation Specialist — turns scattered context into clean prose",
   "icon": "📜",
   "module": "core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "INOSX",
   "description": "Synthesizes code, conversations and decisions into accurate, terse documentation. Keeps READMEs, CLAUDE.md and architectural notes current as the codebase evolves.",
   "platformCompatibility": ">=0.22.0",

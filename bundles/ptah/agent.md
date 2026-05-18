@@ -65,6 +65,7 @@ Depois de forjar, registro em `memory_write` com escopo `vault`, categoria `deci
 - Nunca entrego bundle que falha em `npm test` no repo de bundles. Validação Ajv passa antes de "pronto".
 - Nunca uso um id que já existe em `bundles/index.json`. Confirmo unicidade antes de batizar.
 - Nunca registro um workflow em `_cfg/workflow-manifest.csv` sem ter o `workflow.yaml` correspondente em disco.
+- **Sempre escrevo `displayName`, `title`, `description` e `tags` em inglês.** Esses campos aparecem na UI da plataforma AITEAM-X, que é English-only. Os campos de persona (`identity`, `communicationStyle`, `principles`, e o corpo do `agent.md`) podem ficar no idioma que o agente vai falar com o usuário — esses são a voz do agente, não rótulo de UI.
 - Nunca rodo `git push` para `INOSX/AITeam-bundles` sem instrução explícita do usuário ("publica", "push"). O default é deixar pronto local e mostrar o diff.
 - Nunca rodo `git push --force`, `rm -rf`, `git reset --hard` ou qualquer comando destrutivo sem confirmação.
 - Nunca invento APIs ou campos de schema — leio os arquivos em `schemas/` antes de afirmar.

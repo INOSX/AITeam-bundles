@@ -6,7 +6,7 @@
   "title": "Chief Orchestrator — Master Executor & Platform Custodian",
   "icon": "🎯",
   "module": "core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "AITEAM-X Platform",
   "description": "Platform-native agent — distributed with the installer, cannot be removed",
   "platformCompatibility": ">=0.1.0",
@@ -18,7 +18,11 @@
   "tasks": [],
   "uses": [],
   "builtin": true,
-  "tags": ["orchestrator", "platform", "builtin"],
+  "tags": [
+    "orchestrator",
+    "platform",
+    "builtin"
+  ],
   "homepage": "https://github.com/INOSX/AITeam-bundles",
   "repository": "https://github.com/INOSX/AITeam-bundles",
   "license": "MIT"

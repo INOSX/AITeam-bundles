@@ -1,17 +1,17 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-05-18T11:28:44.830Z",
+  "updatedAt": "2026-05-18T14:42:42.347Z",
   "platform": "aiteam-x",
   "bundles": [
     {
       "id": "aphrodite",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Sofia Martins",
       "title": "Senior UX Designer — Visual exploration and informed UX decisions",
       "icon": "🎨",
-      "description": "Workflow facilitado de UX — gera opções visuais, conversa com usuário, produz design fundamentado em vez de template.",
+      "description": "Facilitated UX workflow — generates visual options, walks trade-offs with the user, and produces grounded design instead of templates.",
       "tags": [
         "ux",
         "design",
@@ -25,12 +25,12 @@
     },
     {
       "id": "apollo",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Arjun Mehta",
       "title": "Senior Product Manager — PRDs that turn vision into shippable epics",
       "icon": "☀️",
-      "description": "Transforma visão de produto em PRD acionável: épicos quebrados em stories de 200k tokens, prontas pro ciclo dev.",
+      "description": "Turns product vision into actionable PRDs — epics broken into ~200k-token stories ready for the dev cycle.",
       "tags": [
         "product",
         "prd",
@@ -45,12 +45,12 @@
     },
     {
       "id": "athena",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Priya Krishnan",
       "title": "Business Analyst — domain knowledge, requirements, market signals",
       "icon": "🦉",
-      "description": "Investigação de domínio, mapeamento de stakeholders e síntese de requisitos antes de qualquer código existir.",
+      "description": "Domain investigation, stakeholder mapping, and requirements synthesis before any code exists.",
       "tags": [
         "analyst",
         "research",
@@ -64,12 +64,12 @@
     },
     {
       "id": "calliope",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Camille Laurent",
       "title": "Technical Writer — turns code and decisions into documentation that ages well",
       "icon": "📜",
-      "description": "Musa da poesia épica — transforma decisões dispersas em prosa documental que sobrevive ao tempo. Complemento do Scribe para documentação técnica longa-forma.",
+      "description": "Turns scattered decisions into long-form documentation that ages well. Complements Scribe for narrative technical writing — ADRs, runbooks, postmortems, manuals.",
       "tags": [
         "docs",
         "tech-writing",
@@ -83,12 +83,12 @@
     },
     {
       "id": "chronos",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "gamedev",
       "displayName": "Erik Lindqvist",
       "title": "Game Scrum Master — sprint cadence, milestone tracking for game projects",
       "icon": "⏳",
-      "description": "Variante gamedev do Hermes — gerencia milestone tracking de projetos de jogo, ritmo de release, integração com publisher se aplicável.",
+      "description": "Gamedev variant of Hermes — milestone tracking for game projects, release cadence, and publisher integration when applicable.",
       "tags": [
         "game",
         "scrum",
@@ -102,12 +102,12 @@
     },
     {
       "id": "daedalus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Lukas Weber",
       "title": "Senior Software Engineer — implements stories from spec to merged code",
       "icon": "⚙️",
-      "description": "Executa stories prontas: lê contexto, implementa, testa, marca DoD. O artesão do labirinto, transforma spec em código.",
+      "description": "Executes ready stories — reads context, implements, tests, marks DoD. Turns spec into shipped code without expanding scope.",
       "tags": [
         "developer",
         "implementation",
@@ -121,12 +121,12 @@
     },
     {
       "id": "dionysus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "gamedev",
       "displayName": "Omar Hassan",
       "title": "Game Designer — GDD, mechanics, progression, narrative design",
       "icon": "🎭",
-      "description": "Deus do teatro — game design document completo, mecânicas, progressão e design narrativo para jogos story-driven.",
+      "description": "Full game design document — mechanics, progression, and narrative design for story-driven games.",
       "tags": [
         "game",
         "design",
@@ -141,7 +141,7 @@
     },
     {
       "id": "echo",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "core",
       "displayName": "Linh Nguyen",
       "title": "Reference Agent — minimal viable AITEAM-X agent",
@@ -160,12 +160,12 @@
     },
     {
       "id": "fortuna",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "builder",
       "displayName": "Eleni Papadopoulos",
       "title": "Competitive Intelligence Analyst — competitive analysis, leaderboards, market intel",
       "icon": "🎲",
-      "description": "Lê dados da arena (challenges, leaderboards, submissões), agrega sinais competitivos e propõe ações táticas para o time.",
+      "description": "Reads arena data (challenges, leaderboards, submissions), aggregates competitive signals, and proposes tactical moves for the team.",
       "tags": [
         "arena",
         "signals",
@@ -180,12 +180,12 @@
     },
     {
       "id": "gaia",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "gamedev",
       "displayName": "Thandi Nkosi",
       "title": "Game Architect — engine, systems, networking, technical design for games",
       "icon": "🌍",
-      "description": "Documento arquitetural focado em decisão para games: engine, sistemas, networking, performance, otimização.",
+      "description": "Decision-driven architecture document for games — engine, systems, networking, performance, optimization.",
       "tags": [
         "game",
         "architecture",
@@ -200,12 +200,12 @@
     },
     {
       "id": "hermes",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Diego Hernández",
       "title": "Scrum Master — sprint planning, status, course corrections",
       "icon": "🪽",
-      "description": "Mensageiro entre os agentes — gerencia sprints, traz status, propõe correções de curso, conduz retros.",
+      "description": "Messenger between agents — runs sprints, surfaces status, proposes course corrections, leads retros.",
       "tags": [
         "scrum",
         "process",
@@ -219,12 +219,12 @@
     },
     {
       "id": "iris",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "nex",
       "displayName": "Valentina Reyes",
       "title": "Social Media Strategist — ideation, carousels, publishing and analytics feedback loop",
       "icon": "🌈",
-      "description": "Gerencia o ciclo completo de campanhas no Instagram: ideação → copy → carrossel → publicação via Meta Graph API → coleta de insights → próxima ação.",
+      "description": "Owns the full Instagram campaign loop — ideation → copy → carousel → publishing via Meta Graph API → insights → next move.",
       "tags": [
         "instagram",
         "social-media",
@@ -242,12 +242,12 @@
     },
     {
       "id": "janus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "builder",
       "displayName": "Wei Chen",
       "title": "Module Builder — creates new modules, agents, workflows for the platform",
       "icon": "🗝️",
-      "description": "Deus de duas faces — olha pra trás (auditoria, conversão de formato) e pra frente (criação de módulos novos). Estende o pack.",
+      "description": "Two-faced — looks backward (audits, format conversion) and forward (creates new modules). Extends the pack.",
       "tags": [
         "builder",
         "platform",
@@ -262,12 +262,12 @@
     },
     {
       "id": "maestro",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "core",
       "displayName": "Mykola Kovalenko",
       "title": "Lead Orchestrator — numbered choices, deterministic dispatch",
       "icon": "🎭",
-      "description": "Orquestrador previsível baseado em menus numerados. Complemento do Zeus: quando você quer escolher de uma lista clara, chame o Maestro; quando quer um parceiro proativo que age sozinho, chame o Zeus.",
+      "description": "Predictable orchestrator built on numbered menus. Complement to Zeus — pick Maestro when you want to choose from a clear list; pick Zeus when you want a proactive partner that acts on its own.",
       "tags": [
         "orchestrator",
         "menu-driven",
@@ -282,12 +282,12 @@
     },
     {
       "id": "peitho",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "nex",
       "displayName": "Giulia Romano",
       "title": "Marketing Strategist — messaging, positioning, prospecting for the nex module",
       "icon": "✨",
-      "description": "Trabalha no módulo nex (negócios INOSX) — messaging, positioning, prospect outreach, copy persuasivo baseado em dados de mercado.",
+      "description": "Handles messaging, positioning, and prospect outreach for the nex module — persuasive copy grounded in market data.",
       "tags": [
         "marketing",
         "messaging",
@@ -302,12 +302,12 @@
     },
     {
       "id": "plutus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "marketing",
       "displayName": "Ryan O'Connor",
       "title": "Copywriter — sales psychology, hooks, image briefs, post-ready content",
       "icon": "🪙",
-      "description": "Copywriter para o X com DNA de psicologia de vendas. Escreve posts prontos pra colar (texto + alt + link + UTM), gera brief visual e PNG (quando OpenAI disponível).",
+      "description": "Copywriter for X with sales-psychology DNA. Delivers ready-to-paste posts (text + alt + link + UTM) and a visual brief (with PNG when OpenAI is available).",
       "tags": [
         "marketing",
         "copywriting",
@@ -324,12 +324,12 @@
     },
     {
       "id": "prometheus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "gamedev",
       "displayName": "Lars van der Berg",
       "title": "Game Developer — implements game stories, gameplay code, tooling",
       "icon": "🔥",
-      "description": "Implementa stories de jogo — código de gameplay, prototipagem de mecânica, tooling de desenvolvimento. Variante do Daedalus para o módulo gamedev.",
+      "description": "Implements game stories — gameplay code, mechanic prototyping, dev tooling. Gamedev variant of Daedalus.",
       "tags": [
         "game",
         "developer",
@@ -344,12 +344,12 @@
     },
     {
       "id": "ptah",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "builder",
       "displayName": "Kenji Tanaka",
       "title": "Platform Engineer — creates and edits AITEAM-X agents, modules and workflows",
       "icon": "🔨",
-      "description": "Deus ferreiro egípcio que forja outros agentes do pack. Cria bundles válidos (manifest.json + visual.json + agent.md + README.md) seguindo os schemas v1 do catálogo INOSX/AITeam-bundles, valida com Ajv antes de entregar e registra nos manifests da plataforma.",
+      "description": "Forges new agents for the AITEAM-X pack. Builds valid bundles (manifest.json + visual.json + agent.md + README.md + portrait.png) against the v1 schemas, validates with Ajv before handing off, and registers them in the platform manifests.",
       "tags": [
         "builder",
         "forge",
@@ -366,7 +366,7 @@
     },
     {
       "id": "scribe",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "core",
       "displayName": "Darius Farahani",
       "title": "Documentation Specialist — turns scattered context into clean prose",
@@ -386,12 +386,12 @@
     },
     {
       "id": "seshat",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Mina Park",
       "title": "Design Engineer — UI polish, animations, easing, gestures and visual performance",
       "icon": "📐",
-      "description": "Deusa egípcia da precisão e da medida. Revisa e melhora UI, animações CSS, easing curves, gestos e performance de renderização seguindo a filosofia de design engineering do Emil Kowalski.",
+      "description": "Design engineer for the AITEAM-X pack — reviews and refines UI, animations, easing curves, gestures, and rendering performance. Emil Kowalski's design-engineering philosophy applied via a Before/After/Why table on every review.",
       "tags": [
         "design-engineering",
         "animations",
@@ -409,12 +409,12 @@
     },
     {
       "id": "themis",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Anastasia Volkova",
       "title": "Test Architect — test strategy, ATDD, NFR assessment, quality gates",
       "icon": "⚖️",
-      "description": "Define estratégia de teste, quebra requisitos em ATDD, avalia NFRs, gera matriz de rastreabilidade e decide quality gate.",
+      "description": "Defines test strategy, breaks requirements into ATDD, assesses NFRs, builds the traceability matrix, and decides the quality gate.",
       "tags": [
         "test",
         "quality",
@@ -429,12 +429,12 @@
     },
     {
       "id": "vulcan",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "dev",
       "displayName": "Emre Yıldız",
       "title": "Software Architect — decision-driven architecture documents",
       "icon": "🔨",
-      "description": "Documenta decisões arquiteturais para evitar conflito entre agentes downstream. Foco em decisões, não em diagramas decorativos.",
+      "description": "Documents architectural decisions so downstream agents don't conflict. Focused on decisions, not decorative diagrams.",
       "tags": [
         "architecture",
         "tech-decisions",
@@ -448,7 +448,7 @@
     },
     {
       "id": "zeus",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "module": "core",
       "displayName": "Adebayo Okonkwo",
       "title": "Chief Orchestrator — Master Executor & Platform Custodian",
