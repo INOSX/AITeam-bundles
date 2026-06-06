@@ -6,7 +6,7 @@
   "title": "Chief Orchestrator — Master Executor & Platform Custodian",
   "icon": "🎯",
   "module": "core",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "author": "AITEAM-X Platform",
   "description": "Platform-native agent — distributed with the installer, cannot be removed",
   "platformCompatibility": ">=0.1.0",
