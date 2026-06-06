@@ -1,12 +1,12 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-05-18T14:42:42.347Z",
+  "updatedAt": "2026-06-02T22:49:38.979Z",
   "platform": "aiteam-x",
   "bundles": [
     {
-      "id": "aphrodite",
-      "version": "1.0.2",
+      "id": "sofia",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Sofia Martins",
       "title": "Senior UX Designer — Visual exploration and informed UX decisions",
@@ -17,15 +17,15 @@
         "design",
         "visual"
       ],
-      "path": "bundles/aphrodite",
+      "path": "bundles/sofia",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "apollo",
-      "version": "1.0.2",
+      "id": "arjun",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Arjun Mehta",
       "title": "Senior Product Manager — PRDs that turn vision into shippable epics",
@@ -37,15 +37,15 @@
         "epics",
         "vision"
       ],
-      "path": "bundles/apollo",
+      "path": "bundles/arjun",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "athena",
-      "version": "1.0.2",
+      "id": "priya",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Priya Krishnan",
       "title": "Business Analyst — domain knowledge, requirements, market signals",
@@ -56,53 +56,53 @@
         "research",
         "discovery"
       ],
-      "path": "bundles/athena",
+      "path": "bundles/priya",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "calliope",
-      "version": "1.0.2",
+      "id": "camille",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Camille Laurent",
       "title": "Technical Writer — turns code and decisions into documentation that ages well",
       "icon": "📜",
-      "description": "Turns scattered decisions into long-form documentation that ages well. Complements Scribe for narrative technical writing — ADRs, runbooks, postmortems, manuals.",
+      "description": "Turns scattered decisions into long-form documentation that ages well. Complements Darius for narrative technical writing — ADRs, runbooks, postmortems, manuals.",
       "tags": [
         "docs",
         "tech-writing",
         "knowledge"
       ],
-      "path": "bundles/calliope",
+      "path": "bundles/camille",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "chronos",
-      "version": "1.0.2",
+      "id": "erik",
+      "version": "1.0.3",
       "module": "gamedev",
       "displayName": "Erik Lindqvist",
       "title": "Game Scrum Master — sprint cadence, milestone tracking for game projects",
       "icon": "⏳",
-      "description": "Gamedev variant of Hermes — milestone tracking for game projects, release cadence, and publisher integration when applicable.",
+      "description": "Gamedev variant of Diego — milestone tracking for game projects, release cadence, and publisher integration when applicable.",
       "tags": [
         "game",
         "scrum",
         "milestones"
       ],
-      "path": "bundles/chronos",
+      "path": "bundles/erik",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "daedalus",
-      "version": "1.0.2",
+      "id": "lukas",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Lukas Weber",
       "title": "Senior Software Engineer — implements stories from spec to merged code",
@@ -113,15 +113,15 @@
         "implementation",
         "stories"
       ],
-      "path": "bundles/daedalus",
+      "path": "bundles/lukas",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "dionysus",
-      "version": "1.0.2",
+      "id": "omar",
+      "version": "1.0.3",
       "module": "gamedev",
       "displayName": "Omar Hassan",
       "title": "Game Designer — GDD, mechanics, progression, narrative design",
@@ -133,15 +133,15 @@
         "gdd",
         "narrative"
       ],
-      "path": "bundles/dionysus",
+      "path": "bundles/omar",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "echo",
-      "version": "1.0.2",
+      "id": "linh",
+      "version": "1.0.3",
       "module": "core",
       "displayName": "Linh Nguyen",
       "title": "Reference Agent — minimal viable AITEAM-X agent",
@@ -152,15 +152,15 @@
         "minimal",
         "test-fixture"
       ],
-      "path": "bundles/echo",
+      "path": "bundles/linh",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "fortuna",
-      "version": "1.0.2",
+      "id": "eleni",
+      "version": "1.0.3",
       "module": "builder",
       "displayName": "Eleni Papadopoulos",
       "title": "Competitive Intelligence Analyst — competitive analysis, leaderboards, market intel",
@@ -172,15 +172,15 @@
         "leaderboard",
         "intel"
       ],
-      "path": "bundles/fortuna",
+      "path": "bundles/eleni",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "gaia",
-      "version": "1.0.2",
+      "id": "thandi",
+      "version": "1.0.3",
       "module": "gamedev",
       "displayName": "Thandi Nkosi",
       "title": "Game Architect — engine, systems, networking, technical design for games",
@@ -192,17 +192,17 @@
         "engine",
         "systems"
       ],
-      "path": "bundles/gaia",
+      "path": "bundles/thandi",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "hermes",
-      "version": "1.0.2",
+      "id": "diego",
+      "version": "1.0.3",
       "module": "dev",
-      "displayName": "Diego Hernández",
+      "displayName": "Diego Hernandez",
       "title": "Scrum Master — sprint planning, status, course corrections",
       "icon": "🪽",
       "description": "Messenger between agents — runs sprints, surfaces status, proposes course corrections, leads retros.",
@@ -211,15 +211,15 @@
         "process",
         "facilitation"
       ],
-      "path": "bundles/hermes",
+      "path": "bundles/diego",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "iris",
-      "version": "1.0.2",
+      "id": "valentina",
+      "version": "1.0.3",
       "module": "nex",
       "displayName": "Valentina Reyes",
       "title": "Social Media Strategist — ideation, carousels, publishing and analytics feedback loop",
@@ -234,15 +234,15 @@
         "meta",
         "marketing"
       ],
-      "path": "bundles/iris",
+      "path": "bundles/valentina",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "janus",
-      "version": "1.0.2",
+      "id": "wei",
+      "version": "1.0.3",
       "module": "builder",
       "displayName": "Wei Chen",
       "title": "Module Builder — creates new modules, agents, workflows for the platform",
@@ -254,35 +254,35 @@
         "modules",
         "workflows"
       ],
-      "path": "bundles/janus",
+      "path": "bundles/wei",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "maestro",
-      "version": "1.0.2",
+      "id": "mykola",
+      "version": "1.0.3",
       "module": "core",
       "displayName": "Mykola Kovalenko",
       "title": "Lead Orchestrator — numbered choices, deterministic dispatch",
       "icon": "🎭",
-      "description": "Predictable orchestrator built on numbered menus. Complement to Zeus — pick Maestro when you want to choose from a clear list; pick Zeus when you want a proactive partner that acts on its own.",
+      "description": "Predictable orchestrator built on numbered menus. Complement to Adebayo — pick Mykola when you want to choose from a clear list; pick Adebayo when you want a proactive partner that acts on its own.",
       "tags": [
         "orchestrator",
         "menu-driven",
         "workflow-dispatcher",
         "core"
       ],
-      "path": "bundles/maestro",
+      "path": "bundles/mykola",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "peitho",
-      "version": "1.0.2",
+      "id": "giulia",
+      "version": "1.0.3",
       "module": "nex",
       "displayName": "Giulia Romano",
       "title": "Marketing Strategist — messaging, positioning, prospecting for the nex module",
@@ -294,15 +294,15 @@
         "positioning",
         "nex"
       ],
-      "path": "bundles/peitho",
+      "path": "bundles/giulia",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "plutus",
-      "version": "1.0.2",
+      "id": "ryan",
+      "version": "1.0.3",
       "module": "marketing",
       "displayName": "Ryan O'Connor",
       "title": "Copywriter — sales psychology, hooks, image briefs, post-ready content",
@@ -316,35 +316,35 @@
         "twitter",
         "sales-psychology"
       ],
-      "path": "bundles/plutus",
+      "path": "bundles/ryan",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "prometheus",
-      "version": "1.0.2",
+      "id": "lars",
+      "version": "1.0.3",
       "module": "gamedev",
       "displayName": "Lars van der Berg",
       "title": "Game Developer — implements game stories, gameplay code, tooling",
       "icon": "🔥",
-      "description": "Implements game stories — gameplay code, mechanic prototyping, dev tooling. Gamedev variant of Daedalus.",
+      "description": "Implements game stories — gameplay code, mechanic prototyping, dev tooling. Gamedev variant of Lukas.",
       "tags": [
         "game",
         "developer",
         "gameplay",
         "implementation"
       ],
-      "path": "bundles/prometheus",
+      "path": "bundles/lars",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "ptah",
-      "version": "1.0.2",
+      "id": "kenji",
+      "version": "1.0.3",
       "module": "builder",
       "displayName": "Kenji Tanaka",
       "title": "Platform Engineer — creates and edits AITEAM-X agents, modules and workflows",
@@ -358,15 +358,15 @@
         "workflow-creator",
         "bundle"
       ],
-      "path": "bundles/ptah",
+      "path": "bundles/kenji",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "scribe",
-      "version": "1.0.2",
+      "id": "darius",
+      "version": "1.0.3",
       "module": "core",
       "displayName": "Darius Farahani",
       "title": "Documentation Specialist — turns scattered context into clean prose",
@@ -378,15 +378,15 @@
         "claude-md",
         "core"
       ],
-      "path": "bundles/scribe",
+      "path": "bundles/darius",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "seshat",
-      "version": "1.0.2",
+      "id": "mina",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Mina Park",
       "title": "Design Engineer — UI polish, animations, easing, gestures and visual performance",
@@ -401,15 +401,15 @@
         "performance",
         "accessibility"
       ],
-      "path": "bundles/seshat",
+      "path": "bundles/mina",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "themis",
-      "version": "1.0.2",
+      "id": "anastasia",
+      "version": "1.0.3",
       "module": "dev",
       "displayName": "Anastasia Volkova",
       "title": "Test Architect — test strategy, ATDD, NFR assessment, quality gates",
@@ -421,17 +421,17 @@
         "atdd",
         "nfr"
       ],
-      "path": "bundles/themis",
+      "path": "bundles/anastasia",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "vulcan",
-      "version": "1.0.2",
+      "id": "emre",
+      "version": "1.0.3",
       "module": "dev",
-      "displayName": "Emre Yıldız",
+      "displayName": "Emre Yildiz",
       "title": "Software Architect — decision-driven architecture documents",
       "icon": "🔨",
       "description": "Documents architectural decisions so downstream agents don't conflict. Focused on decisions, not decorative diagrams.",
@@ -440,15 +440,15 @@
         "tech-decisions",
         "solutioning"
       ],
-      "path": "bundles/vulcan",
+      "path": "bundles/emre",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
       "builtin": false
     },
     {
-      "id": "zeus",
-      "version": "1.0.2",
+      "id": "adebayo",
+      "version": "1.0.3",
       "module": "core",
       "displayName": "Adebayo Okonkwo",
       "title": "Chief Orchestrator — Master Executor & Platform Custodian",
@@ -459,7 +459,7 @@
         "platform",
         "builtin"
       ],
-      "path": "bundles/zeus",
+      "path": "bundles/adebayo",
       "author": "AITEAM-X Platform",
       "license": "MIT",
       "platformCompatibility": ">=0.1.0",

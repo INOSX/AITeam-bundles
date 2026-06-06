@@ -43,4 +43,4 @@
 
 ## Example
 
-See [bundles/echo/agent.md](../bundles/echo/agent.md) — the smallest valid bundle ships a persona that satisfies every rule above.
+See [bundles/linh/agent.md](../bundles/linh/agent.md) — the smallest valid bundle ships a persona that satisfies every rule above.

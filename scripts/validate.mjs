@@ -59,7 +59,7 @@ function validatePersona(bundleId, content, expectedName) {
   }
 }
 
-const ids = fs.readdirSync(bundlesDir).filter(d => fs.statSync(path.join(bundlesDir, d)).isDirectory());
+const ids = fs.readdirSync(bundlesDir).filter((d) => fs.statSync(path.join(bundlesDir, d)).isDirectory());
 console.log(`Found ${ids.length} bundle(s): ${ids.join(", ")}`);
 
 for (const id of ids) {
@@ -68,7 +68,7 @@ for (const id of ids) {
   for (const f of required) {
     if (!fs.existsSync(path.join(dir, f))) fail(id, `missing required file: ${f}`);
   }
-  if (errors.some(e => e.startsWith(`[${id}]`))) continue;
+  if (errors.some((e) => e.startsWith(`[${id}]`))) continue;
 
   const manifest = JSON.parse(fs.readFileSync(path.join(dir, "manifest.json"), "utf-8"));
   if (!validateBundle(manifest)) {
