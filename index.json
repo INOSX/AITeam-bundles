@@ -1,7 +1,7 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-06-15T13:17:32.840Z",
+  "updatedAt": "2026-06-15T18:28:37.903Z",
   "platform": "aiteam-x",
   "bundles": [
     {
@@ -339,6 +339,29 @@
         "sales-psychology"
       ],
       "path": "bundles/ryan",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "clara",
+      "version": "1.0.0",
+      "module": "marketing",
+      "displayName": "Clara Monteiro",
+      "title": "Documentation Sales Consultant - source-grounded product Q&A, objections and handoffs",
+      "icon": "📚",
+      "description": "Guides consultative product sales from available documentation, turning cited evidence into calm answers, objection handling and human-ready handoffs.",
+      "tags": [
+        "sales",
+        "documentation",
+        "consultative-selling",
+        "source-grounded",
+        "product-qa",
+        "handoff",
+        "marketing"
+      ],
+      "path": "bundles/clara",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
