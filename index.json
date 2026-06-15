@@ -1,7 +1,7 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-06-02T22:49:38.979Z",
+  "updatedAt": "2026-06-15T13:17:32.840Z",
   "platform": "aiteam-x",
   "bundles": [
     {
@@ -57,6 +57,28 @@
         "discovery"
       ],
       "path": "bundles/priya",
+      "author": "INOSX",
+      "license": "MIT",
+      "platformCompatibility": ">=0.22.0",
+      "builtin": false
+    },
+    {
+      "id": "helena",
+      "version": "1.0.0",
+      "module": "dev",
+      "displayName": "Helena Costa",
+      "title": "Legacy Modernization Analyst — intake, code inventory, SCC reports and modernization briefing",
+      "icon": "🏛️",
+      "description": "Analyzes legacy code drops, installs or runs SCC when available, and turns raw file inventory into actionable modernization briefings.",
+      "tags": [
+        "legacy",
+        "modernization",
+        "code-inventory",
+        "scc",
+        "discovery",
+        "risk-analysis"
+      ],
+      "path": "bundles/helena",
       "author": "INOSX",
       "license": "MIT",
       "platformCompatibility": ">=0.22.0",
