@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aiteam-x.inosx.io/schemas/agent-visual.v1.json",
+  "color": {
+    "from": "#ecfeff",
+    "to": "#0f766e",
+    "ink": "#042f2e"
+  },
+  "accentHex": "#f59e0b",
+  "glyphLetter": "C",
+  "glyphPath": "M 24 18 L 68 18 L 80 30 L 80 76 L 24 76 Z M 68 18 L 68 30 L 80 30 M 34 38 L 62 38 M 34 50 L 58 50 M 34 62 L 50 62 M 62 58 A 10 10 0 1 0 62 78 A 10 10 0 1 0 62 58 M 69 75 L 82 88"
+}
