@@ -1,16 +1,16 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-07-08T15:55:00.853Z",
+  "updatedAt": "2026-07-08T16:22:34.516Z",
   "platform": "aiteam-x",
   "bundles": [
     {
       "id": "aiteam-llm-proxy-doctor",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "module": "core",
-      "displayName": "Dr. AITEAM-X",
-      "title": "AITEAM-X LLM Proxy Doctor - provider routing and AgentOps recovery specialist",
-      "icon": "DX",
+      "displayName": "Doc. Doo",
+      "title": "Doc. Doo - AITEAM-X LLM Proxy Doctor for provider routing and AgentOps recovery",
+      "icon": "DD",
       "description": "Diagnoses AITEAM-X LLM Proxy, provider health, routing, AgentOps pauses, permission scope requests, and recoverable task failures.",
       "tags": [
         "support",
