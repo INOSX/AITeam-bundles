@@ -1,7 +1,7 @@
 {
   "$schema": "https://aiteam-x.inosx.io/schemas/bundle-catalog.v1.json",
   "catalogVersion": "1",
-  "updatedAt": "2026-07-08T23:12:00.000Z",
+  "updatedAt": "2026-07-09T20:45:00.000Z",
   "platform": "aiteam-x",
   "bundles": [
     {
@@ -48,8 +48,8 @@
     },
     {
       "id": "iris-calder",
-      "version": "1.0.1",
-      "module": "nex",
+      "version": "1.1.0",
+      "module": "commercial",
       "displayName": "Iris Calder",
       "title": "Commercial Intelligence Analyst - market signals, competitors, opportunity sizing, and risk-fit briefs",
       "icon": "IC",
@@ -69,8 +69,8 @@
     },
     {
       "id": "nora-vale",
-      "version": "1.0.1",
-      "module": "nex",
+      "version": "1.1.0",
+      "module": "commercial",
       "displayName": "Nora Vale",
       "title": "ICP & Segmentation Strategist - ideal customer profiles, segment matrices, and validation logic",
       "icon": "NV",
@@ -90,8 +90,8 @@
     },
     {
       "id": "mateo-cruz",
-      "version": "1.0.1",
-      "module": "nex",
+      "version": "1.1.0",
+      "module": "commercial",
       "displayName": "Mateo Cruz",
       "title": "Outbound / Prospecting Strategist - triggers, cadences, persona angles, and qualification questions",
       "icon": "MC",
@@ -111,8 +111,8 @@
     },
     {
       "id": "victor-lane",
-      "version": "1.0.1",
-      "module": "nex",
+      "version": "1.1.0",
+      "module": "commercial",
       "displayName": "Victor Lane",
       "title": "Account Strategist - account dossiers, stakeholder maps, meeting prep, and objection strategy",
       "icon": "VL",
