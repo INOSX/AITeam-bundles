@@ -2,6 +2,20 @@
 
 This repository is the public source of truth for AITEAM-X agent bundles.
 
+## AgentOS foundation (approved 2026-09-14)
+
+GitHub `INOSX/AITeam-bundles` remains the primary source. The private
+`INOSX/AgentOS-Bundles` repository on Git INOSX is its backup, not an
+independent development source. After an authorized GitHub publication, run
+`scripts/sync-inosx-backup.ps1` and report whether backup verification passed.
+Never use a forced mirror push to erase divergent backup history.
+
+The new AgentOS agent design starts with Adebayo, Administrador da equipe.
+Files under `docs/adebayo-foundation/` are planning and review artifacts, not
+active agent instructions. Human approval of the professional design precedes
+implementation of the new runtime behavior. Legacy bundles remain compatible
+until an approved replacement is implemented and validated.
+
 ## Commands
 
 ```bash

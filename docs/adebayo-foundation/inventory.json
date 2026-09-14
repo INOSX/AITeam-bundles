@@ -1,0 +1,1789 @@
+[
+  {
+    "directory": "adebayo",
+    "id": "adebayo",
+    "name": "Adebayo Okonkwo",
+    "version": "1.1.1",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/adebayo/agent.md",
+        "bytes": 6413,
+        "sha256": "b267035dd4c2addfab79ce5bc63de29e56cdfe2ef7190989e920b7eee6777175"
+      },
+      {
+        "path": "bundles/adebayo/manifest.json",
+        "bytes": 1432,
+        "sha256": "88ec078a400103db147aa57a58528df4edb45e2231d6287798af2193d3015579"
+      },
+      {
+        "path": "bundles/adebayo/portrait.png",
+        "bytes": 7940887,
+        "sha256": "296dd16890b454b109e3913a9f04567c709a73ccbcbcf7223ca8d813b8e84e08"
+      },
+      {
+        "path": "bundles/adebayo/README.md",
+        "bytes": 209,
+        "sha256": "441dc7030e284cd8755d77eb63ae8396e0d78451aa01014b14ab349ab2b71723"
+      },
+      {
+        "path": "bundles/adebayo/visual.json",
+        "bytes": 284,
+        "sha256": "f9e7ad83109d31c0f16b438fd40dd8029f4e21ecef308128dd73922e7589387d"
+      }
+    ]
+  },
+  {
+    "directory": "aiteam-llm-proxy-doctor",
+    "id": "aiteam-llm-proxy-doctor",
+    "name": "Doc. Doo",
+    "version": "1.0.1",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/aiteam-llm-proxy-doctor/agent.md",
+        "bytes": 7847,
+        "sha256": "c0afdc6a503eca07a9dc9a803fae18cf07f4b153fc39e96c19d7e2ecaee6ccbf"
+      },
+      {
+        "path": "bundles/aiteam-llm-proxy-doctor/manifest.json",
+        "bytes": 1913,
+        "sha256": "ddfa53c435c8db54402bc5f438f2b13ba9918878b7d6cce7c06ed5bbb0cea97b"
+      },
+      {
+        "path": "bundles/aiteam-llm-proxy-doctor/portrait.png",
+        "bytes": 1516096,
+        "sha256": "0480d3130fd0ac98145155362c593e0a8787628b03de560a9ccbdad23f5e0566"
+      },
+      {
+        "path": "bundles/aiteam-llm-proxy-doctor/README.md",
+        "bytes": 4967,
+        "sha256": "162316d78d4e0dc3d90d72cac6b01cc0f33b5c2d150df56e7c9f6b867e9251a9"
+      },
+      {
+        "path": "bundles/aiteam-llm-proxy-doctor/visual.json",
+        "bytes": 499,
+        "sha256": "34ac9fa08095c15959c1c383108d36c96d30809164db34b15647948186628cb2"
+      }
+    ]
+  },
+  {
+    "directory": "anastasia",
+    "id": "anastasia",
+    "name": "Anastasia Volkova",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/anastasia/agent.md",
+        "bytes": 5045,
+        "sha256": "20a812754f912920a7d66884da6d7a42c3ec41692ba659e99727946652c3288d"
+      },
+      {
+        "path": "bundles/anastasia/manifest.json",
+        "bytes": 1700,
+        "sha256": "0ac7e3cb0bd8b1dd4ed81ff3d2975a2b80aee12f8e2d28cdc42a6238acabd6d9"
+      },
+      {
+        "path": "bundles/anastasia/portrait.png",
+        "bytes": 8203682,
+        "sha256": "4820fae0eb94f99041a0813201780dabe855e05f4cde87f781a7369bd38983a7"
+      },
+      {
+        "path": "bundles/anastasia/README.md",
+        "bytes": 746,
+        "sha256": "4f054b01e8d790e33c109e68ea9fc40cb1864a3a11c735370cad42fa7219b5dd"
+      },
+      {
+        "path": "bundles/anastasia/visual.json",
+        "bytes": 337,
+        "sha256": "72940f48c1c22ed36a5f70aea85bcc5f13afaffa275af28a6395f159fbd850c9"
+      }
+    ]
+  },
+  {
+    "directory": "aphrodite",
+    "id": "aphrodite",
+    "name": "Sofia Martins",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/aphrodite/agent.md",
+        "bytes": 4474,
+        "sha256": "1dd30aceafacab392798e51daad3b659cce121ef4f8e39f596ea02880d3e9b9a"
+      },
+      {
+        "path": "bundles/aphrodite/manifest.json",
+        "bytes": 1511,
+        "sha256": "b62e9969792a067e8c4b290aa4dbeebf37d295d2a629cec77d111f3afb38900c"
+      },
+      {
+        "path": "bundles/aphrodite/README.md",
+        "bytes": 583,
+        "sha256": "696322df781bcb554364c6d4d29d27c3f1ed4b7f20bac39f77a502cfc74be977"
+      },
+      {
+        "path": "bundles/aphrodite/visual.json",
+        "bytes": 313,
+        "sha256": "2f9bbe414c8c654c6bb5af2e63a556f8c9f1a7d7973dfc5088a9ff4718e9b4da"
+      }
+    ]
+  },
+  {
+    "directory": "apollo",
+    "id": "apollo",
+    "name": "Arjun Mehta",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/apollo/agent.md",
+        "bytes": 4723,
+        "sha256": "468af307dae88e4f81c5676e2de148f5ec6778aa6750421e3c78a9e2b75892cf"
+      },
+      {
+        "path": "bundles/apollo/manifest.json",
+        "bytes": 1531,
+        "sha256": "4edf0a281ba57c2cd7134ed16f14fc3ff42e844c454410c846da92844931d590"
+      },
+      {
+        "path": "bundles/apollo/portrait.png",
+        "bytes": 7441094,
+        "sha256": "4cd3d2aea7de11d5d83ad09e4ed46de565ddfce14767e0d990a16e685c0583e6"
+      },
+      {
+        "path": "bundles/apollo/README.md",
+        "bytes": 604,
+        "sha256": "eea005ea2d6cdff0328e5a5a804f8f4ae2dd84aefd9577623acde3497eafa56b"
+      },
+      {
+        "path": "bundles/apollo/visual.json",
+        "bytes": 387,
+        "sha256": "cc9e392856f40f409675dbde6e01a82a354e58c3fb76a8043e1da3f8a13ac7fc"
+      }
+    ]
+  },
+  {
+    "directory": "arjun",
+    "id": "arjun",
+    "name": "Arjun Mehta",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/arjun/agent.md",
+        "bytes": 4708,
+        "sha256": "84f88fe52d3185f0fce7bbcf651a2c734a8a945005e3f8867e156a67b6ff6be1"
+      },
+      {
+        "path": "bundles/arjun/manifest.json",
+        "bytes": 1525,
+        "sha256": "712407de5d0df23ef5d70ae7783903af3517789269da5058687920050bac4a5b"
+      },
+      {
+        "path": "bundles/arjun/portrait.png",
+        "bytes": 7441094,
+        "sha256": "4cd3d2aea7de11d5d83ad09e4ed46de565ddfce14767e0d990a16e685c0583e6"
+      },
+      {
+        "path": "bundles/arjun/README.md",
+        "bytes": 609,
+        "sha256": "2952198f3a79e446391a5342a0403680e333cae0812a6765651783e867ae20a4"
+      },
+      {
+        "path": "bundles/arjun/visual.json",
+        "bytes": 398,
+        "sha256": "9644af2fcffbfc0902cad53dd5a6b9b46225881251a05b35eaad6ef53ca5423d"
+      }
+    ]
+  },
+  {
+    "directory": "athena",
+    "id": "athena",
+    "name": "Priya Krishnan",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/athena/agent.md",
+        "bytes": 4729,
+        "sha256": "ab4772b82e20c0b4e48cf10982dd420ca8825dcea5d32adbdc2dc98302d1ff73"
+      },
+      {
+        "path": "bundles/athena/manifest.json",
+        "bytes": 1534,
+        "sha256": "cae81c1c1d42c29babc673eb2aa640ae2e6823a9a9d179e95fe51d11c03a9e2c"
+      },
+      {
+        "path": "bundles/athena/portrait.png",
+        "bytes": 7758087,
+        "sha256": "9920aa4a5064918ee5978d102ef91974cf3ee1d03791b67d5ee7fab41f07a88f"
+      },
+      {
+        "path": "bundles/athena/README.md",
+        "bytes": 599,
+        "sha256": "406fd4e0c280ee2505d7a9bd15101711d4efa5350944f1fbc91980efaf550656"
+      },
+      {
+        "path": "bundles/athena/visual.json",
+        "bytes": 301,
+        "sha256": "9dbc8d0539f98a3b49190b0a6a42b89881c1d2218175009d383c7d37a58630b8"
+      }
+    ]
+  },
+  {
+    "directory": "calliope",
+    "id": "calliope",
+    "name": "Camille Laurent",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/calliope/agent.md",
+        "bytes": 4698,
+        "sha256": "22c701a443855ddb4cbaa25cac4ba65e95cb27f28cc9ee3c43a750bd575b45b7"
+      },
+      {
+        "path": "bundles/calliope/manifest.json",
+        "bytes": 1576,
+        "sha256": "6128041aa3793eeb79d86457183f4fe914a80fdb0ae36713d822ed675bc83109"
+      },
+      {
+        "path": "bundles/calliope/portrait.png",
+        "bytes": 7453550,
+        "sha256": "bb4bd68f11d7bd2679391dda82b790cf681d37e2ea8a094c53ca7079807b3843"
+      },
+      {
+        "path": "bundles/calliope/README.md",
+        "bytes": 616,
+        "sha256": "ad62f3f78f88c0b7ea9e6f01d8a8ab412f112bc98664209631a8b5d9814fdfe8"
+      },
+      {
+        "path": "bundles/calliope/visual.json",
+        "bytes": 286,
+        "sha256": "36593e59910c835c50cbdbb4ec6cdf7f3697e8c085ab9b8ab8326256e38b11f5"
+      }
+    ]
+  },
+  {
+    "directory": "camille",
+    "id": "camille",
+    "name": "Camille Laurent",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/camille/agent.md",
+        "bytes": 4692,
+        "sha256": "19d312c9a069466f8105a924868d252d4166ed846c6fafabac5178e0bd1afe7d"
+      },
+      {
+        "path": "bundles/camille/manifest.json",
+        "bytes": 1574,
+        "sha256": "6e3eb66af7edb3cc2e10d62231aec650ba000e1b627aa1125ba8c3559eb6fd04"
+      },
+      {
+        "path": "bundles/camille/portrait.png",
+        "bytes": 7453550,
+        "sha256": "bb4bd68f11d7bd2679391dda82b790cf681d37e2ea8a094c53ca7079807b3843"
+      },
+      {
+        "path": "bundles/camille/README.md",
+        "bytes": 623,
+        "sha256": "a59940b7f899db0f5fd370e713190bc1655eacc8008f516e332bdc53b560adcb"
+      },
+      {
+        "path": "bundles/camille/visual.json",
+        "bytes": 297,
+        "sha256": "2bd06a1de32c1dcb01bb08d1c68acb504d163aa0610f3442576b1911937123a5"
+      }
+    ]
+  },
+  {
+    "directory": "chronos",
+    "id": "chronos",
+    "name": "Erik Lindqvist",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/chronos/agent.md",
+        "bytes": 4736,
+        "sha256": "1d1cf22504582a007337297b242d32ccce5177efebbda1b96265ecdfada9e2a7"
+      },
+      {
+        "path": "bundles/chronos/manifest.json",
+        "bytes": 1594,
+        "sha256": "e3281408077ea7930b7a279a9ea920aa02b64297b8c7971848bdde3907d49620"
+      },
+      {
+        "path": "bundles/chronos/portrait.png",
+        "bytes": 8336457,
+        "sha256": "a9f0f64b4339993d406ee49e21289c3c28e8a6b70848eefb8b0c7a7bea43c3d4"
+      },
+      {
+        "path": "bundles/chronos/README.md",
+        "bytes": 647,
+        "sha256": "0608a24fae608a35a944db73318360678edfd51774bb46789843f71b7526b71f"
+      },
+      {
+        "path": "bundles/chronos/visual.json",
+        "bytes": 267,
+        "sha256": "313b2772f64ab2b4ce57ea30f40309fbc7e23645b55dd1e7d41bc4e241075e66"
+      }
+    ]
+  },
+  {
+    "directory": "daedalus",
+    "id": "daedalus",
+    "name": "Lukas Weber",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/daedalus/agent.md",
+        "bytes": 4966,
+        "sha256": "47dcd414365135a73375fdeb569e705737903397d6576b182ebbad3ff71b2289"
+      },
+      {
+        "path": "bundles/daedalus/manifest.json",
+        "bytes": 1589,
+        "sha256": "1a2ef8d6d61c96a27ae1a055083bb160a5ea38f2e293af5f4a316e16676e738d"
+      },
+      {
+        "path": "bundles/daedalus/portrait.png",
+        "bytes": 7506160,
+        "sha256": "7a38933724335a6c8e4a45ace1ce86f5a9975decb15f175438b47038071ca5d6"
+      },
+      {
+        "path": "bundles/daedalus/README.md",
+        "bytes": 645,
+        "sha256": "d68682fa8be4208b6f0fe398cf870563bc39f34a11cde827d0cbe344f49fb882"
+      },
+      {
+        "path": "bundles/daedalus/visual.json",
+        "bytes": 295,
+        "sha256": "edb7ac646b9305b064b0635952c9838904358499d8a4fdf136bc3779ff1b26ab"
+      }
+    ]
+  },
+  {
+    "directory": "darius",
+    "id": "darius",
+    "name": "Darius Farahani",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/darius/agent.md",
+        "bytes": 5918,
+        "sha256": "fffb3884e71580ccfbcb86e3c8b8caa1a175ea01a9eb8c80448e159c8208c0ed"
+      },
+      {
+        "path": "bundles/darius/manifest.json",
+        "bytes": 1748,
+        "sha256": "17615fe95d8d629296b71175a6c9d6f9497c48f0ef2552c87e9273629042dd69"
+      },
+      {
+        "path": "bundles/darius/portrait.png",
+        "bytes": 8423761,
+        "sha256": "c5ee15d10f529762399f683b50f2091bfa1347f2d88b4b45928208a4d20d6f66"
+      },
+      {
+        "path": "bundles/darius/README.md",
+        "bytes": 1442,
+        "sha256": "e713fdc557351fc1c8a4d706adf477b08ba826117e88511687979849135f42f7"
+      },
+      {
+        "path": "bundles/darius/visual.json",
+        "bytes": 332,
+        "sha256": "0fc38034f66d361f46f3cc0f6aa3d24adf60b80651eb72db12869446d95d7162"
+      }
+    ]
+  },
+  {
+    "directory": "diego",
+    "id": "diego",
+    "name": "Diego Hernandez",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/diego/agent.md",
+        "bytes": 4636,
+        "sha256": "fc1a058851070d64a6730ea8d302a4ad5bc55bb5c534ec119373a6ebc79b7b6b"
+      },
+      {
+        "path": "bundles/diego/manifest.json",
+        "bytes": 1515,
+        "sha256": "5a9bd65231e4140b6135d75a082c02d389b4a23b4c172875a8085507cfecc853"
+      },
+      {
+        "path": "bundles/diego/portrait.png",
+        "bytes": 2595846,
+        "sha256": "94b4af18c7720413d2f8ed5212c7bd8e3dddf3a02de610fb0267090642da3fc5"
+      },
+      {
+        "path": "bundles/diego/README.md",
+        "bytes": 616,
+        "sha256": "9c6270b7642524bea3f4b25e43a7100099159bdc6872ae16516e8883fb00e704"
+      },
+      {
+        "path": "bundles/diego/visual.json",
+        "bytes": 328,
+        "sha256": "aee3bbc5fb07b32e454e29a8430d497ee2bf35d49f9b6493ef67c565e78a3463"
+      }
+    ]
+  },
+  {
+    "directory": "dionysus",
+    "id": "dionysus",
+    "name": "Omar Hassan",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/dionysus/agent.md",
+        "bytes": 4798,
+        "sha256": "cf50953962834adcaef648c487af75d346f88479d58e352749e940704d55f2e5"
+      },
+      {
+        "path": "bundles/dionysus/manifest.json",
+        "bytes": 1561,
+        "sha256": "cef73f78801dec8da953f59e58d100e85ffaa480fecd71e8612cb71c431f81e4"
+      },
+      {
+        "path": "bundles/dionysus/portrait.png",
+        "bytes": 7936145,
+        "sha256": "a45582416b8e077e1b458013a6c1f92db95a658cc7b33884ea1d1c996bcc04ba"
+      },
+      {
+        "path": "bundles/dionysus/README.md",
+        "bytes": 620,
+        "sha256": "9d1cd366838bede76097e7d02afed001d49751385534a608e049ba7e1604e21b"
+      },
+      {
+        "path": "bundles/dionysus/visual.json",
+        "bytes": 315,
+        "sha256": "19c395d903626e3c2e4f2bbc9d82253a9865b81dc7977e75e56f241008c75e8d"
+      }
+    ]
+  },
+  {
+    "directory": "doc-lya",
+    "id": "doc-lya",
+    "name": "Doc. Lya",
+    "version": "1.0.1",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/doc-lya/agent.md",
+        "bytes": 7752,
+        "sha256": "29243371200bd142fb5dd5d86e900cbb6b560a4699d70ddcab3a4f07e9c99e17"
+      },
+      {
+        "path": "bundles/doc-lya/manifest.json",
+        "bytes": 2042,
+        "sha256": "4979462e4c33771eaee2b98c5efdbc15b58881d9a10b5118855da4900d10fd9f"
+      },
+      {
+        "path": "bundles/doc-lya/portrait.png",
+        "bytes": 2166589,
+        "sha256": "6cdbda1b444f8eaf457ee1c6d10b6ef0da13919bce5a86e67f5258fab4e97970"
+      },
+      {
+        "path": "bundles/doc-lya/README.md",
+        "bytes": 7406,
+        "sha256": "852032850fe9f812fbcd6803224597a738930cfab8cb9a8b556d67f213b9d5b1"
+      },
+      {
+        "path": "bundles/doc-lya/visual.json",
+        "bytes": 348,
+        "sha256": "2a631c741690290d97c767cdcc0876e75a257eaea6d4848c4f401b9d4ca89a35"
+      }
+    ]
+  },
+  {
+    "directory": "echo",
+    "id": "echo",
+    "name": "Linh Nguyen",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/echo/agent.md",
+        "bytes": 4659,
+        "sha256": "77be439e4458ef2e919c0137a211a4eebf9ba81b64f98f27f1773adba43b6d01"
+      },
+      {
+        "path": "bundles/echo/manifest.json",
+        "bytes": 1506,
+        "sha256": "f182ea015bffccac124e26ae269de7b7eefafd9a3e91150cc3cbff8dab6f6107"
+      },
+      {
+        "path": "bundles/echo/portrait.png",
+        "bytes": 7764661,
+        "sha256": "92fac75b31c6269be88c07c94c751907aa7916fd2fead5a875af9c594947ebdf"
+      },
+      {
+        "path": "bundles/echo/README.md",
+        "bytes": 1149,
+        "sha256": "d0a63f8426c93460e3483cce00bfeb127fe667151b0d98b679779f4be3b88132"
+      },
+      {
+        "path": "bundles/echo/visual.json",
+        "bytes": 321,
+        "sha256": "e5d30eae76158038bc887e6adc6fb54ed68eac4a8fa29e08d2f24bd61928b616"
+      }
+    ]
+  },
+  {
+    "directory": "eleni",
+    "id": "eleni",
+    "name": "Eleni Papadopoulos",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/eleni/agent.md",
+        "bytes": 4622,
+        "sha256": "58b49cd6fa77699c1da39c1cbce631178550f004562e051c750cf0a6e770b713"
+      },
+      {
+        "path": "bundles/eleni/manifest.json",
+        "bytes": 1492,
+        "sha256": "0a466d0090ca52438f444a6ced28f135a3e9af16a13699521ca64ecd452792c4"
+      },
+      {
+        "path": "bundles/eleni/portrait.png",
+        "bytes": 7735406,
+        "sha256": "489dca350843e1b138dff4724bdb5481a9a8be370ad7c95a09ec885a918965c9"
+      },
+      {
+        "path": "bundles/eleni/README.md",
+        "bytes": 589,
+        "sha256": "1480d572ef67258207d448ed1ab6cab5910395894933381ba3b235181c353cc6"
+      },
+      {
+        "path": "bundles/eleni/visual.json",
+        "bytes": 319,
+        "sha256": "6682e1be78725d7fd4302ec9925002648544798ac7bef84d47386f6449e4de97"
+      }
+    ]
+  },
+  {
+    "directory": "emre",
+    "id": "emre",
+    "name": "Emre Yildiz",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/emre/agent.md",
+        "bytes": 4789,
+        "sha256": "5b0592cf5b150050b4b8a030dfe18b45a915a98841b5ff36336b56a5a0fda973"
+      },
+      {
+        "path": "bundles/emre/manifest.json",
+        "bytes": 1573,
+        "sha256": "98992a383c87a57ab111a44545e7eceaaed97697d1ad14fb21a96507682e3e58"
+      },
+      {
+        "path": "bundles/emre/portrait.png",
+        "bytes": 8793634,
+        "sha256": "0bb646f86e395c52150a405e6c197dbc27ca9c59cc1aff20a666ee4d6c7d5961"
+      },
+      {
+        "path": "bundles/emre/README.md",
+        "bytes": 645,
+        "sha256": "9a626dd49d73d530fc9ca9cb4cd13dd766346dea406b604b151dd901b4ae3b91"
+      },
+      {
+        "path": "bundles/emre/visual.json",
+        "bytes": 300,
+        "sha256": "0848fc940060e8d2b588297f0c274ca5f20d4644e7f23ec3b0be94ebdb043c5a"
+      }
+    ]
+  },
+  {
+    "directory": "erik",
+    "id": "erik",
+    "name": "Erik Lindqvist",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/erik/agent.md",
+        "bytes": 4721,
+        "sha256": "0ec60593d374a755956994db35e47b8c3fbff59641ddeb952f0c7a9bef29eba3"
+      },
+      {
+        "path": "bundles/erik/manifest.json",
+        "bytes": 1586,
+        "sha256": "eefa6d437992f2703a0f3ce2b719b76f7d29e93c8d12dc13a5a12e5ac5771adc"
+      },
+      {
+        "path": "bundles/erik/portrait.png",
+        "bytes": 8336457,
+        "sha256": "a9f0f64b4339993d406ee49e21289c3c28e8a6b70848eefb8b0c7a7bea43c3d4"
+      },
+      {
+        "path": "bundles/erik/README.md",
+        "bytes": 653,
+        "sha256": "7421daa6caeb82de41a13e45324e76ae5ecc45b56971a5ad77abb1e6d54bb8a1"
+      },
+      {
+        "path": "bundles/erik/visual.json",
+        "bytes": 278,
+        "sha256": "6d8a62f5c3dc39bf7fddbd7833649ce45a684947bea809e7e28c144a1587eefd"
+      }
+    ]
+  },
+  {
+    "directory": "fortuna",
+    "id": "fortuna",
+    "name": "Eleni Papadopoulos",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/fortuna/agent.md",
+        "bytes": 4623,
+        "sha256": "1995c68e8cd06cbe6d2c597aaa4d164264c63dcbe82f0a8fdd324257803d33be"
+      },
+      {
+        "path": "bundles/fortuna/manifest.json",
+        "bytes": 1496,
+        "sha256": "b01699c2a01aa4fa8bba9b3de1943db51440615fa57ba47d73b253080feb8818"
+      },
+      {
+        "path": "bundles/fortuna/portrait.png",
+        "bytes": 7735406,
+        "sha256": "489dca350843e1b138dff4724bdb5481a9a8be370ad7c95a09ec885a918965c9"
+      },
+      {
+        "path": "bundles/fortuna/README.md",
+        "bytes": 578,
+        "sha256": "3497db9c5f4998ac60b93bccb847db885eabf9af1124d2517e2743699fbbf52a"
+      },
+      {
+        "path": "bundles/fortuna/visual.json",
+        "bytes": 308,
+        "sha256": "33dacae696e148ed47abacfcf0017a064cd819576547a1eb9665b0285935c738"
+      }
+    ]
+  },
+  {
+    "directory": "gaia",
+    "id": "gaia",
+    "name": "Thandi Nkosi",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/gaia/agent.md",
+        "bytes": 4749,
+        "sha256": "3f3ee9c38469e956f2c9bbdea663e1cc64f0b337f70e3e7804969d667e3d8ecb"
+      },
+      {
+        "path": "bundles/gaia/manifest.json",
+        "bytes": 1536,
+        "sha256": "87c89bd415e0d0e973a924a7613043e409c2ff64a6cbb8017a3b7c71536951a2"
+      },
+      {
+        "path": "bundles/gaia/portrait.png",
+        "bytes": 7976297,
+        "sha256": "26a435d7a1ebd45deecabdcf22692790573b95793ab25e0db7b3e9f8b053440b"
+      },
+      {
+        "path": "bundles/gaia/README.md",
+        "bytes": 577,
+        "sha256": "5da5b53d7c6d1bccd9cef0a48203156d1ad3844846ee48bcead8b231d04853ed"
+      },
+      {
+        "path": "bundles/gaia/visual.json",
+        "bytes": 328,
+        "sha256": "827188224d05b374e0d6792d54b694b79fc10499f0c78b6bec4ee7d1cc6725ec"
+      }
+    ]
+  },
+  {
+    "directory": "giulia",
+    "id": "giulia",
+    "name": "Giulia Romano",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/giulia/agent.md",
+        "bytes": 4672,
+        "sha256": "930feeca71dc4a5fc944372c7abdffc2cb0f9e4aa8e2d5529e894b2f515d8e01"
+      },
+      {
+        "path": "bundles/giulia/manifest.json",
+        "bytes": 1522,
+        "sha256": "abb92353455b9b32106717a5371e5a121fb2b5818aaa5886d50d87f414a02f3c"
+      },
+      {
+        "path": "bundles/giulia/portrait.png",
+        "bytes": 7461258,
+        "sha256": "787afc886c6235047167738fa9d5e3488e3c92621ca6153e8c61fde3a0cdae6d"
+      },
+      {
+        "path": "bundles/giulia/README.md",
+        "bytes": 597,
+        "sha256": "86745959e611050f8ac669b6b825fe2dd457b2a5bf2911296a83eb32a6c23635"
+      },
+      {
+        "path": "bundles/giulia/visual.json",
+        "bytes": 300,
+        "sha256": "4d57d56157c11be4d9ade9a9f7448bc6f74e35f0f6afee6e2c76ae7e7b01279b"
+      }
+    ]
+  },
+  {
+    "directory": "helena",
+    "id": "helena",
+    "name": "Helena Costa",
+    "version": "1.1.0",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/helena/agent.md",
+        "bytes": 6924,
+        "sha256": "1d26925e2600ad6ffc2807379def1a5bfaf2954c602f6f538156c2c5efc7d824"
+      },
+      {
+        "path": "bundles/helena/manifest.json",
+        "bytes": 2706,
+        "sha256": "d2c5b1cfe22b6b8ed1d658042eb81cbab053ce09c8b9dc74b17e77a22aa1bfa0"
+      },
+      {
+        "path": "bundles/helena/README.md",
+        "bytes": 9942,
+        "sha256": "c17e7bfc2a3ee17d122f28934a2d89defaaba344a09800d0f58577c3170a8c64"
+      },
+      {
+        "path": "bundles/helena/visual.json",
+        "bytes": 412,
+        "sha256": "196d7d1cf6d251d1b8ec968013b8b666a228e8a9f19a7e4126fd49936a654b15"
+      }
+    ]
+  },
+  {
+    "directory": "hermes",
+    "id": "hermes",
+    "name": "Diego Hernández",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/hermes/agent.md",
+        "bytes": 4636,
+        "sha256": "94314e20a7e0e298d19fd6f36b992e221410f7492b1e22f58e173599e76f407c"
+      },
+      {
+        "path": "bundles/hermes/manifest.json",
+        "bytes": 1518,
+        "sha256": "7f860ed68911e6d028b71256db624a7886f3e95a6041de2a9e4b168e4ec03c96"
+      },
+      {
+        "path": "bundles/hermes/portrait.png",
+        "bytes": 2595846,
+        "sha256": "94b4af18c7720413d2f8ed5212c7bd8e3dddf3a02de610fb0267090642da3fc5"
+      },
+      {
+        "path": "bundles/hermes/README.md",
+        "bytes": 607,
+        "sha256": "8bf9836a9ba1ed1855398ce1b082b21aca45433f5270e7baf908f86a6f29a727"
+      },
+      {
+        "path": "bundles/hermes/visual.json",
+        "bytes": 317,
+        "sha256": "8352145d3a22a2516d3add45fee7202961e48f8e7454bc38e72ba843c984bd49"
+      }
+    ]
+  },
+  {
+    "directory": "iris",
+    "id": "iris",
+    "name": "Valentina Reyes",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/iris/agent.md",
+        "bytes": 4742,
+        "sha256": "a812cdd2e62796ab8a28517c7185d07e41ac12642594224af7b24bca57d31eab"
+      },
+      {
+        "path": "bundles/iris/manifest.json",
+        "bytes": 2673,
+        "sha256": "08c22de07d2517d939fc9a9f8d9b8ffb1d5d612314f98ee9b9c17d8a96298e3f"
+      },
+      {
+        "path": "bundles/iris/portrait.png",
+        "bytes": 7366677,
+        "sha256": "85e231478170b13f2c942d5913c13b0dc9744718567ce192d1a78e1a138f9146"
+      },
+      {
+        "path": "bundles/iris/README.md",
+        "bytes": 3344,
+        "sha256": "61bbb8cbbda5fdd6d20524b4168919989952f9bede117f8254461244701ea044"
+      },
+      {
+        "path": "bundles/iris/visual.json",
+        "bytes": 326,
+        "sha256": "6c75c1bc5f7186da04d9f1717d1b72efc6d3471e2b4f536b75645071b6d31c5c"
+      }
+    ]
+  },
+  {
+    "directory": "iris-calder",
+    "id": "iris-calder",
+    "name": "Iris Calder",
+    "version": "1.1.0",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/iris-calder/agent.md",
+        "bytes": 6124,
+        "sha256": "143770ea25770ca2e12bc0cc96a7309f539174b3e69e153cc3369ecc2953cfd2"
+      },
+      {
+        "path": "bundles/iris-calder/manifest.json",
+        "bytes": 2464,
+        "sha256": "7ac101506697533e6db3d5c3638b6a9bf875d0b5a8762cad6142ba9943a747b5"
+      },
+      {
+        "path": "bundles/iris-calder/portrait.png",
+        "bytes": 2195406,
+        "sha256": "e0923a35fac5f4ac3adcc404d82eba220c093d10ae72baa656097eef956e2b6c"
+      },
+      {
+        "path": "bundles/iris-calder/README.md",
+        "bytes": 1490,
+        "sha256": "3e70d854e449243fdde85410619f5b6ec326c35645978db8225f61654bc46bf7"
+      },
+      {
+        "path": "bundles/iris-calder/visual.json",
+        "bytes": 436,
+        "sha256": "c15be028980afbea330360ed86047e70c6652c09fcf8579e1ba1f3bc44401865"
+      }
+    ]
+  },
+  {
+    "directory": "janus",
+    "id": "janus",
+    "name": "Wei Chen",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/janus/agent.md",
+        "bytes": 4924,
+        "sha256": "8bf2884142c7640ced84761a5e9ab4fc193f62b0742d864955ea0dbace3f4a41"
+      },
+      {
+        "path": "bundles/janus/manifest.json",
+        "bytes": 1779,
+        "sha256": "2c5f4a45df62ea18b169c814d5c79d4d9759952e555225f5d91525eab8c79501"
+      },
+      {
+        "path": "bundles/janus/portrait.png",
+        "bytes": 8165534,
+        "sha256": "2512e195ed2e3085d0bdd4c3c25a1847e519eddeb769191d36d02ea9f92e5330"
+      },
+      {
+        "path": "bundles/janus/README.md",
+        "bytes": 737,
+        "sha256": "8c4b192eae274d2ba5018588f4dae653be5f849ea61165fc6a411684c58b715c"
+      },
+      {
+        "path": "bundles/janus/visual.json",
+        "bytes": 310,
+        "sha256": "08961b3b9040bf0e80cb05585acf297880e0e9e68f335fadfb1c37e955c06c55"
+      }
+    ]
+  },
+  {
+    "directory": "kenji",
+    "id": "kenji",
+    "name": "Kenji Tanaka",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/kenji/agent.md",
+        "bytes": 7716,
+        "sha256": "e42e0a54aaef0b2c8745d316ac467c8058064b16fb914ea0e027d9af8f9dfc44"
+      },
+      {
+        "path": "bundles/kenji/manifest.json",
+        "bytes": 2554,
+        "sha256": "2875ffecfb8e547f77a822b4124a37b9e3f55a73767baf078c772618f951de49"
+      },
+      {
+        "path": "bundles/kenji/portrait.png",
+        "bytes": 7096772,
+        "sha256": "28240810052da1a19148ff5fbab75e3b2f049004c16fba10a61c2b885e5536c8"
+      },
+      {
+        "path": "bundles/kenji/README.md",
+        "bytes": 2807,
+        "sha256": "e07cd0b13875d480fec21ebfb64efcdf1a79e305adbfe0ee90094200cb03cf32"
+      },
+      {
+        "path": "bundles/kenji/visual.json",
+        "bytes": 364,
+        "sha256": "c0800d007c936bed7be52ff9f9f4161d4e1cc2653f0b1bbe8c37dac34536341c"
+      }
+    ]
+  },
+  {
+    "directory": "lars",
+    "id": "lars",
+    "name": "Lars van der Berg",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/lars/agent.md",
+        "bytes": 5034,
+        "sha256": "27d71d70938dd0aa856b04e626aef9dd92a2f4ab41cb6dd3146b6a2775c7979d"
+      },
+      {
+        "path": "bundles/lars/manifest.json",
+        "bytes": 1615,
+        "sha256": "fc7335417ae9f4b97daf1ad2d1bba26adc6148c4078ad98fd860c61e02640482"
+      },
+      {
+        "path": "bundles/lars/portrait.png",
+        "bytes": 8869412,
+        "sha256": "53569bffe8846db34cda58b18f87cc7b1aedb802f1d2468ff229fd6f18eab3c3"
+      },
+      {
+        "path": "bundles/lars/README.md",
+        "bytes": 695,
+        "sha256": "401bd6525ec68a431e765f079c4199ff2574645842dc1759193c7835ac68b0e3"
+      },
+      {
+        "path": "bundles/lars/visual.json",
+        "bytes": 328,
+        "sha256": "8f4e85af79abb73836a93e1b69c97987b5e3343abadb27f2c7385b5fbfb72521"
+      }
+    ]
+  },
+  {
+    "directory": "linh",
+    "id": "linh",
+    "name": "Linh Nguyen",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/linh/agent.md",
+        "bytes": 4673,
+        "sha256": "adc5dda6dd321b08b075cff91240ae16bf5bc84cf4ab2731bc17da10318883c8"
+      },
+      {
+        "path": "bundles/linh/manifest.json",
+        "bytes": 1506,
+        "sha256": "540d4781e997128854c6a2ec38fa9bfff81f49ae704f72a97356ad506614bc87"
+      },
+      {
+        "path": "bundles/linh/portrait.png",
+        "bytes": 7764661,
+        "sha256": "92fac75b31c6269be88c07c94c751907aa7916fd2fead5a875af9c594947ebdf"
+      },
+      {
+        "path": "bundles/linh/README.md",
+        "bytes": 1186,
+        "sha256": "75d1082e74935f1b6c43d5a73892bf350e51101bbf83ae0e4255c6d7ca9ae33a"
+      },
+      {
+        "path": "bundles/linh/visual.json",
+        "bytes": 332,
+        "sha256": "779780cf99218673d1ad9c535859f54304dfb65007cb5db9605ec8f933c5efff"
+      }
+    ]
+  },
+  {
+    "directory": "lukas",
+    "id": "lukas",
+    "name": "Lukas Weber",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/lukas/agent.md",
+        "bytes": 6773,
+        "sha256": "e4bbef8801a281b6c38edbaeb3ff911051d4fcf1e33242df9a6d637e1c4a6e57"
+      },
+      {
+        "path": "bundles/lukas/manifest.json",
+        "bytes": 1583,
+        "sha256": "11592a660eb77c56a2d4ee87b89888ff00be986c0d79514f6ef0ded6b8380b39"
+      },
+      {
+        "path": "bundles/lukas/portrait.png",
+        "bytes": 7506160,
+        "sha256": "7a38933724335a6c8e4a45ace1ce86f5a9975decb15f175438b47038071ca5d6"
+      },
+      {
+        "path": "bundles/lukas/README.md",
+        "bytes": 648,
+        "sha256": "cf7cccc25bff87a23b3702fed5987c91002946fd2c82c3efe6a86d51a70ff6d9"
+      },
+      {
+        "path": "bundles/lukas/visual.json",
+        "bytes": 306,
+        "sha256": "9418cb06ed94832e02fd66750de29c495b3443b911e975e7a64fa5dcc892f16a"
+      }
+    ]
+  },
+  {
+    "directory": "maestro",
+    "id": "maestro",
+    "name": "Mykola Kovalenko",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/maestro/agent.md",
+        "bytes": 5768,
+        "sha256": "c2c7037be5c7ef293fa2e11e395847d83587e77c2652c647307515a2984d39f3"
+      },
+      {
+        "path": "bundles/maestro/manifest.json",
+        "bytes": 1853,
+        "sha256": "9fae9906b2d35dc976a7193a3f43a8767f1f2bea2cd6007b57b48b791078c2e9"
+      },
+      {
+        "path": "bundles/maestro/portrait.png",
+        "bytes": 8596467,
+        "sha256": "6580556e4fd95ca9626e028e16d96b817e8728b5e5c5bf9a1580989b1b20fc61"
+      },
+      {
+        "path": "bundles/maestro/README.md",
+        "bytes": 1132,
+        "sha256": "9dfb397b5477e3fb56bb4d9783d9ab7839b3712c7682e2a42e66992e1e48090f"
+      },
+      {
+        "path": "bundles/maestro/visual.json",
+        "bytes": 329,
+        "sha256": "f67848077e849f8443e6317cef7e8049a279144c9eede55cdbcdfb0ea8b5ac9d"
+      }
+    ]
+  },
+  {
+    "directory": "mateo-cruz",
+    "id": "mateo-cruz",
+    "name": "Mateo Cruz",
+    "version": "1.1.0",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/mateo-cruz/agent.md",
+        "bytes": 6353,
+        "sha256": "bb8d47cd13214aee66a534ebfea6f82cf57315ff5ee66367f502d96d1734b29a"
+      },
+      {
+        "path": "bundles/mateo-cruz/manifest.json",
+        "bytes": 2363,
+        "sha256": "64e369ccf01dcfdbb677dcf781254b7f15c65a5d0e462e0d6e78bcb974cb971b"
+      },
+      {
+        "path": "bundles/mateo-cruz/portrait.png",
+        "bytes": 2124139,
+        "sha256": "dad5c3d12c23e939bf4b4973a6fb3943ca797f1a8488ace819fa45d09e7eff1e"
+      },
+      {
+        "path": "bundles/mateo-cruz/README.md",
+        "bytes": 1374,
+        "sha256": "3452f2e62f5b3b6ad56cce782fc748da4885c69f18ec0886fad7a4d28be0a4c1"
+      },
+      {
+        "path": "bundles/mateo-cruz/visual.json",
+        "bytes": 388,
+        "sha256": "38e547ad263337b900a89c9f8da6d64777921b49cff42e6b6a77815b4a92945a"
+      }
+    ]
+  },
+  {
+    "directory": "mina",
+    "id": "mina",
+    "name": "Mina Park",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/mina/agent.md",
+        "bytes": 5444,
+        "sha256": "2467a3bb97540b65d99ca9a202d9e8dc01fdd9905b337947f281fa4893d82366"
+      },
+      {
+        "path": "bundles/mina/manifest.json",
+        "bytes": 2075,
+        "sha256": "ee79f26438f767b28215048ecda63a32742978eeeead67b954a9c6304a19081a"
+      },
+      {
+        "path": "bundles/mina/portrait.png",
+        "bytes": 7614572,
+        "sha256": "3a846d8134610e3d8aadc5f409bca8df6f4620058e35799ae819cb6c33079c0b"
+      },
+      {
+        "path": "bundles/mina/README.md",
+        "bytes": 1260,
+        "sha256": "b27236b1fbd30291f7061874ddb3587447934101a272e5eb301b624981901701"
+      },
+      {
+        "path": "bundles/mina/visual.json",
+        "bytes": 315,
+        "sha256": "53d7b307133c2d4a70b821061a9edab0da8f3f58a2a3064057df037c39584fa3"
+      }
+    ]
+  },
+  {
+    "directory": "mykola",
+    "id": "mykola",
+    "name": "Mykola Kovalenko",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/mykola/agent.md",
+        "bytes": 5791,
+        "sha256": "7c26fd538b6cbbb2e739b5e9b52eefec5083cdde7ffaed168f9a6f863385ed0f"
+      },
+      {
+        "path": "bundles/mykola/manifest.json",
+        "bytes": 1856,
+        "sha256": "677dcb948465d8f487e558d6a802637192635cd7c07db10313df2c108460ed70"
+      },
+      {
+        "path": "bundles/mykola/portrait.png",
+        "bytes": 8596467,
+        "sha256": "6580556e4fd95ca9626e028e16d96b817e8728b5e5c5bf9a1580989b1b20fc61"
+      },
+      {
+        "path": "bundles/mykola/README.md",
+        "bytes": 1173,
+        "sha256": "418397af75e8308c157cd2e1937582bcb0cc11f6809ad7c3d0ea45ba92b0fefa"
+      },
+      {
+        "path": "bundles/mykola/visual.json",
+        "bytes": 340,
+        "sha256": "e7ffa7d31035b9c771dfaa49fd2d88ac4d99bdf524fb86d7dc3848de580b3c36"
+      }
+    ]
+  },
+  {
+    "directory": "nora-vale",
+    "id": "nora-vale",
+    "name": "Nora Vale",
+    "version": "1.1.0",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/nora-vale/agent.md",
+        "bytes": 6249,
+        "sha256": "2e5e89d2b1b44fdac8b1eb1345dae63c1a6347ef42af706f6a24bc98bf9cef95"
+      },
+      {
+        "path": "bundles/nora-vale/manifest.json",
+        "bytes": 2338,
+        "sha256": "2e7ff89bd94e4ca6dc195f15963c8efaaee432fb0a96978a963e8f5f5dacab95"
+      },
+      {
+        "path": "bundles/nora-vale/portrait.png",
+        "bytes": 2196283,
+        "sha256": "76408a78bc22227434e5bd4a169b5c36b77c1b83b89bdc19e6032f8ee8cb0e10"
+      },
+      {
+        "path": "bundles/nora-vale/README.md",
+        "bytes": 1407,
+        "sha256": "70c7161b54a962a6a84da29560bcf3474ce0fd51bd551fb45f063ab245a5940c"
+      },
+      {
+        "path": "bundles/nora-vale/visual.json",
+        "bytes": 340,
+        "sha256": "2aff97abfad7afbd48c5a30e87d20b2852f7348e2a9f5c0f40d413b27fb0e3ff"
+      }
+    ]
+  },
+  {
+    "directory": "omar",
+    "id": "omar",
+    "name": "Omar Hassan",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/omar/agent.md",
+        "bytes": 4772,
+        "sha256": "132fadb69b91c2a2340a57ed4e6932b9eb3cffcc0b07be0cc149adefa84bcfd8"
+      },
+      {
+        "path": "bundles/omar/manifest.json",
+        "bytes": 1553,
+        "sha256": "8225e970361221744d9497cef85334453cfdad1ea650bb45a0d536931362bb61"
+      },
+      {
+        "path": "bundles/omar/portrait.png",
+        "bytes": 7936145,
+        "sha256": "a45582416b8e077e1b458013a6c1f92db95a658cc7b33884ea1d1c996bcc04ba"
+      },
+      {
+        "path": "bundles/omar/README.md",
+        "bytes": 623,
+        "sha256": "0a895177ca8beba4dca5499dd7a8e6e58d7a16e429c7979b4933d7ea113e5274"
+      },
+      {
+        "path": "bundles/omar/visual.json",
+        "bytes": 326,
+        "sha256": "27c042c337cfecb94e7d66c614b044eb8ee599e695403588d543c5aa8ac59245"
+      }
+    ]
+  },
+  {
+    "directory": "peitho",
+    "id": "peitho",
+    "name": "Giulia Romano",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/peitho/agent.md",
+        "bytes": 4672,
+        "sha256": "bb3c50b7a2fcbba496df83eee564a25fab4e3fd238c60248f110d52d8434ff78"
+      },
+      {
+        "path": "bundles/peitho/manifest.json",
+        "bytes": 1522,
+        "sha256": "bbc6fe544b2906ef81d1e3a902d80b6b46f6ea048666c4e43b2d05624a548f9a"
+      },
+      {
+        "path": "bundles/peitho/portrait.png",
+        "bytes": 7461258,
+        "sha256": "787afc886c6235047167738fa9d5e3488e3c92621ca6153e8c61fde3a0cdae6d"
+      },
+      {
+        "path": "bundles/peitho/README.md",
+        "bytes": 590,
+        "sha256": "8f60843bb2e3f30d66b6110aff84fda17955dabefb7bd4d20cc9da62461d8d9d"
+      },
+      {
+        "path": "bundles/peitho/visual.json",
+        "bytes": 289,
+        "sha256": "0a3b6d406f6376438b0829769700f69948de55ff3e30f43ca5f33fd9023af64d"
+      }
+    ]
+  },
+  {
+    "directory": "plutus",
+    "id": "plutus",
+    "name": "Ryan O'Connor",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/plutus/agent.md",
+        "bytes": 5680,
+        "sha256": "db4223e2354353068ec92a0ad8f4d75ed92d2755f61a14d586dba31e1b28cb0f"
+      },
+      {
+        "path": "bundles/plutus/manifest.json",
+        "bytes": 1581,
+        "sha256": "c43695f5c9acc7d2f8600c921761a7939680f029f0a0defd1e607b345dcbd6b3"
+      },
+      {
+        "path": "bundles/plutus/portrait.png",
+        "bytes": 7682144,
+        "sha256": "2fdbe7851a2916573406863e5b0c42458310bf768f438e1bcd72c06a75104134"
+      },
+      {
+        "path": "bundles/plutus/README.md",
+        "bytes": 841,
+        "sha256": "8ae333078bafcce1756e5294556cfd195714d35bc7c5fc83d525e26333e7a91a"
+      },
+      {
+        "path": "bundles/plutus/visual.json",
+        "bytes": 300,
+        "sha256": "ffd4525896a28f1103d8ba0bb7d9a24f45e3c46bf3b6dbb11171eb3c2555d46e"
+      }
+    ]
+  },
+  {
+    "directory": "priya",
+    "id": "priya",
+    "name": "Priya Krishnan",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/priya/agent.md",
+        "bytes": 4724,
+        "sha256": "58bbbef574452f1e490526bca3e663ab664bdf32cf544f99415946be0f6bc9b9"
+      },
+      {
+        "path": "bundles/priya/manifest.json",
+        "bytes": 1529,
+        "sha256": "69736e2ab9d66b611ec48ed124398392a788aec560735a9b7922be030c03840d"
+      },
+      {
+        "path": "bundles/priya/portrait.png",
+        "bytes": 7758087,
+        "sha256": "9920aa4a5064918ee5978d102ef91974cf3ee1d03791b67d5ee7fab41f07a88f"
+      },
+      {
+        "path": "bundles/priya/README.md",
+        "bytes": 607,
+        "sha256": "2c0d6ee80b4c34f7fae4eb08756176e23d44a6c2681f462e7174b812b38f1591"
+      },
+      {
+        "path": "bundles/priya/visual.json",
+        "bytes": 312,
+        "sha256": "47c3e3ec203de05b8894ec975fcfbae26915a8c3ccde0534d522f5528304e31f"
+      }
+    ]
+  },
+  {
+    "directory": "prometheus",
+    "id": "prometheus",
+    "name": "Lars van der Berg",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/prometheus/agent.md",
+        "bytes": 5064,
+        "sha256": "e4fae842a79bc3eecc0c07edf19c32b823041ae683df516137294e3d4b010594"
+      },
+      {
+        "path": "bundles/prometheus/manifest.json",
+        "bytes": 1629,
+        "sha256": "144685805a99cbf27c5981ece9078dd08ea6fc76f1b9f401d2afcbad654c4341"
+      },
+      {
+        "path": "bundles/prometheus/portrait.png",
+        "bytes": 8869412,
+        "sha256": "53569bffe8846db34cda58b18f87cc7b1aedb802f1d2468ff229fd6f18eab3c3"
+      },
+      {
+        "path": "bundles/prometheus/README.md",
+        "bytes": 691,
+        "sha256": "d603a229bd222fac4a0b1a537091b30f4ca6c9170424d65e33e564dc95d889cc"
+      },
+      {
+        "path": "bundles/prometheus/visual.json",
+        "bytes": 317,
+        "sha256": "132ff0b820732e1340012b75e5205cfe0291cc21171e5d6454947ca468c22fb8"
+      }
+    ]
+  },
+  {
+    "directory": "ptah",
+    "id": "ptah",
+    "name": "Kenji Tanaka",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/ptah/agent.md",
+        "bytes": 7697,
+        "sha256": "420743984ae8287fae2f86db7509cbd923125329869b1b12a8ae5d3a5fe9dbf8"
+      },
+      {
+        "path": "bundles/ptah/manifest.json",
+        "bytes": 2552,
+        "sha256": "07184e105af944bc81cc2ad8161b3a8e4fe416a3b4455bdf9a1b91e50bfa9b78"
+      },
+      {
+        "path": "bundles/ptah/portrait.png",
+        "bytes": 7096772,
+        "sha256": "28240810052da1a19148ff5fbab75e3b2f049004c16fba10a61c2b885e5536c8"
+      },
+      {
+        "path": "bundles/ptah/README.md",
+        "bytes": 2791,
+        "sha256": "43e11ddad9c16a11611554ead0e8a1b08d386466a2fa812e4ce06935916ffa42"
+      },
+      {
+        "path": "bundles/ptah/visual.json",
+        "bytes": 364,
+        "sha256": "c0800d007c936bed7be52ff9f9f4161d4e1cc2653f0b1bbe8c37dac34536341c"
+      }
+    ]
+  },
+  {
+    "directory": "ryan",
+    "id": "ryan",
+    "name": "Ryan O'Connor",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/ryan/agent.md",
+        "bytes": 5680,
+        "sha256": "0e637f52cdf29b2502cd93d38028a1e83275b049b2b6d17a9d61e992d2a4d811"
+      },
+      {
+        "path": "bundles/ryan/manifest.json",
+        "bytes": 1577,
+        "sha256": "08a1487c4cdee8f1b0f701c735f14533cb70f6a7d9bef25240bac27fa5a1df83"
+      },
+      {
+        "path": "bundles/ryan/portrait.png",
+        "bytes": 7682144,
+        "sha256": "2fdbe7851a2916573406863e5b0c42458310bf768f438e1bcd72c06a75104134"
+      },
+      {
+        "path": "bundles/ryan/README.md",
+        "bytes": 848,
+        "sha256": "abdad6c6b178c8796175531b0c38d56c46d1258328616485b5ecaba3ad1b0b93"
+      },
+      {
+        "path": "bundles/ryan/visual.json",
+        "bytes": 300,
+        "sha256": "ffd4525896a28f1103d8ba0bb7d9a24f45e3c46bf3b6dbb11171eb3c2555d46e"
+      }
+    ]
+  },
+  {
+    "directory": "scribe",
+    "id": "scribe",
+    "name": "Darius Farahani",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/scribe/agent.md",
+        "bytes": 5894,
+        "sha256": "9730db3f314b23743ee4d90330a4188624b6eaa5bcc258bd67f76af666fc740d"
+      },
+      {
+        "path": "bundles/scribe/manifest.json",
+        "bytes": 1748,
+        "sha256": "08301c028d08e41ff1e028df9da343295606793f9360b5f495dbe2b898944737"
+      },
+      {
+        "path": "bundles/scribe/portrait.png",
+        "bytes": 8423761,
+        "sha256": "c5ee15d10f529762399f683b50f2091bfa1347f2d88b4b45928208a4d20d6f66"
+      },
+      {
+        "path": "bundles/scribe/README.md",
+        "bytes": 1390,
+        "sha256": "be34b995d95744288ab0495ecebee9b67b11304ed604ce14d40be33f2640ff73"
+      },
+      {
+        "path": "bundles/scribe/visual.json",
+        "bytes": 321,
+        "sha256": "870e97c135f29592b785e05e6a067c545a124d1f5f14f674cc01c9dab361ab89"
+      }
+    ]
+  },
+  {
+    "directory": "seshat",
+    "id": "seshat",
+    "name": "Mina Park",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/seshat/agent.md",
+        "bytes": 5448,
+        "sha256": "878dbf6f59d0d888b097bbeb21bf6b5c7e0f446affa38f2f23b4d532443de8d0"
+      },
+      {
+        "path": "bundles/seshat/manifest.json",
+        "bytes": 2079,
+        "sha256": "18eea9d9d1eff6a4983df7c0a3bc2500ed3732db6b760b84293063573ac686e0"
+      },
+      {
+        "path": "bundles/seshat/portrait.png",
+        "bytes": 7614572,
+        "sha256": "3a846d8134610e3d8aadc5f409bca8df6f4620058e35799ae819cb6c33079c0b"
+      },
+      {
+        "path": "bundles/seshat/README.md",
+        "bytes": 1259,
+        "sha256": "f78931cbe067611433a18dbffd436d85a918b1027c8f8159280e2a7402c38abe"
+      },
+      {
+        "path": "bundles/seshat/visual.json",
+        "bytes": 315,
+        "sha256": "53d7b307133c2d4a70b821061a9edab0da8f3f58a2a3064057df037c39584fa3"
+      }
+    ]
+  },
+  {
+    "directory": "sofia",
+    "id": "sofia",
+    "name": "Sofia Martins",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/sofia/agent.md",
+        "bytes": 4478,
+        "sha256": "5c0abae82db37f44fab0a099e6d6592a9187cfd49015a33117cf79557f890649"
+      },
+      {
+        "path": "bundles/sofia/manifest.json",
+        "bytes": 1507,
+        "sha256": "6c10dad2dba02f54ac7a36ee965254492b74176c9699bb0d957b1ee75302c4d4"
+      },
+      {
+        "path": "bundles/sofia/README.md",
+        "bytes": 587,
+        "sha256": "5ecaf2368752ed787e6f1d863bb737ad7943848f8b3e2cc7a4c99718ee9291ec"
+      },
+      {
+        "path": "bundles/sofia/visual.json",
+        "bytes": 324,
+        "sha256": "6d6318a1fa570f5cb92f34b9609c3c6e2e948a27f8c4f16411c89de19abb31ee"
+      }
+    ]
+  },
+  {
+    "directory": "thandi",
+    "id": "thandi",
+    "name": "Thandi Nkosi",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/thandi/agent.md",
+        "bytes": 4761,
+        "sha256": "810884de7d7d5e19f8e68e5ec0c133c64c95eb141c1183a62355b74edaddef93"
+      },
+      {
+        "path": "bundles/thandi/manifest.json",
+        "bytes": 1540,
+        "sha256": "d69a110cc9a735117c69c2bfc9668b02c64bbed22dc600244e7b69594d724a4c"
+      },
+      {
+        "path": "bundles/thandi/portrait.png",
+        "bytes": 7976297,
+        "sha256": "26a435d7a1ebd45deecabdcf22692790573b95793ab25e0db7b3e9f8b053440b"
+      },
+      {
+        "path": "bundles/thandi/README.md",
+        "bytes": 585,
+        "sha256": "96e3112e96ff5e47d70b4b60994d3f552a2da4924390c34f36610a147a939ec9"
+      },
+      {
+        "path": "bundles/thandi/visual.json",
+        "bytes": 339,
+        "sha256": "732087d5610d9c9c309c6b075f65d7ca7acb4009c2a2691a40017a7f9cc6b60b"
+      }
+    ]
+  },
+  {
+    "directory": "themis",
+    "id": "themis",
+    "name": "Anastasia Volkova",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/themis/agent.md",
+        "bytes": 5025,
+        "sha256": "375887e6ab997ba70b3cafa532b1e770afdb7feeda76bd4f55609314948a397d"
+      },
+      {
+        "path": "bundles/themis/manifest.json",
+        "bytes": 1694,
+        "sha256": "99b6dc37a187fe46bebafc4779a6fa7095c0e6de112a0357b77025e910588b1e"
+      },
+      {
+        "path": "bundles/themis/portrait.png",
+        "bytes": 8203682,
+        "sha256": "4820fae0eb94f99041a0813201780dabe855e05f4cde87f781a7369bd38983a7"
+      },
+      {
+        "path": "bundles/themis/README.md",
+        "bytes": 735,
+        "sha256": "baa6673367ffda9a481a5625d297ac84a6f580aa40f0db2a6c4755a9c727bf49"
+      },
+      {
+        "path": "bundles/themis/visual.json",
+        "bytes": 326,
+        "sha256": "efbd4180002aceb2033117c96ce8233f52c98212a5c6ec08a9b89b255a5132db"
+      }
+    ]
+  },
+  {
+    "directory": "valentina",
+    "id": "valentina",
+    "name": "Valentina Reyes",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/valentina/agent.md",
+        "bytes": 4794,
+        "sha256": "5cb9b7f1d6d2dff8820f9f1510da7986be0311a17e58f527b7f08cf2d30e3b65"
+      },
+      {
+        "path": "bundles/valentina/manifest.json",
+        "bytes": 2683,
+        "sha256": "0e7327a770860cf087577bcdc9cb928bd0df29649e0bf20037bf56b260b077a6"
+      },
+      {
+        "path": "bundles/valentina/portrait.png",
+        "bytes": 7366677,
+        "sha256": "85e231478170b13f2c942d5913c13b0dc9744718567ce192d1a78e1a138f9146"
+      },
+      {
+        "path": "bundles/valentina/README.md",
+        "bytes": 3405,
+        "sha256": "3f6c38c206e29fa8f2990c4e6d2f1f7d35d01f831f5437c389a009333c5b0cc7"
+      },
+      {
+        "path": "bundles/valentina/visual.json",
+        "bytes": 326,
+        "sha256": "6c75c1bc5f7186da04d9f1717d1b72efc6d3471e2b4f536b75645071b6d31c5c"
+      }
+    ]
+  },
+  {
+    "directory": "victor-lane",
+    "id": "victor-lane",
+    "name": "Victor Lane",
+    "version": "1.1.0",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/victor-lane/agent.md",
+        "bytes": 6351,
+        "sha256": "514da8b87885cb60e62d6c9cb672c1978bf3bf8789149c40157a7dcf219c86ce"
+      },
+      {
+        "path": "bundles/victor-lane/manifest.json",
+        "bytes": 2391,
+        "sha256": "f537201bb9e8e7636a4b59e82bd4a8b6296a1505019f7f0a7d59f8fc37b42249"
+      },
+      {
+        "path": "bundles/victor-lane/portrait.png",
+        "bytes": 2194992,
+        "sha256": "08bda68a9a35ed96ea3626b2982d8258832be607948188706c4adf3507805005"
+      },
+      {
+        "path": "bundles/victor-lane/README.md",
+        "bytes": 1385,
+        "sha256": "fc45aab3bf02b00aec9352401584d954f435f2495b0e4a5b61d54d2ec16dc719"
+      },
+      {
+        "path": "bundles/victor-lane/visual.json",
+        "bytes": 332,
+        "sha256": "ac55091864a1231f3314d9d055023613f03858a802a199ffd68f4434f44051b6"
+      }
+    ]
+  },
+  {
+    "directory": "vulcan",
+    "id": "vulcan",
+    "name": "Emre Yıldız",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/vulcan/agent.md",
+        "bytes": 4801,
+        "sha256": "c0e9a2f31018d8191233f44335f2fc8f4e956eefbf6815e7b1f310b37fb3e5c1"
+      },
+      {
+        "path": "bundles/vulcan/manifest.json",
+        "bytes": 1579,
+        "sha256": "3d68d8550a20d91d046c31fa7a9ffadcd0fb4b8fbc2306576a33468f0064edd2"
+      },
+      {
+        "path": "bundles/vulcan/portrait.png",
+        "bytes": 8793634,
+        "sha256": "0bb646f86e395c52150a405e6c197dbc27ca9c59cc1aff20a666ee4d6c7d5961"
+      },
+      {
+        "path": "bundles/vulcan/README.md",
+        "bytes": 640,
+        "sha256": "4abd22fa788d6e1d403423e68b056fcf2c7250f26d273622a944cd3e90e2ef6a"
+      },
+      {
+        "path": "bundles/vulcan/visual.json",
+        "bytes": 289,
+        "sha256": "671e0593788006dd218b2caa282942bd965982fe9bc937dce5633191d265cd51"
+      }
+    ]
+  },
+  {
+    "directory": "wei",
+    "id": "wei",
+    "name": "Wei Chen",
+    "version": "1.0.3",
+    "tracked": true,
+    "files": [
+      {
+        "path": "bundles/wei/agent.md",
+        "bytes": 4909,
+        "sha256": "e1fc29da4256c91aaeedb5ce1a38835bc46e41e272046d53a75d3ea994685410"
+      },
+      {
+        "path": "bundles/wei/manifest.json",
+        "bytes": 1775,
+        "sha256": "63d8901e5a48158874dd06d4e8038b53d9fb552e0baca04653be14f7c7dbf329"
+      },
+      {
+        "path": "bundles/wei/portrait.png",
+        "bytes": 8165534,
+        "sha256": "2512e195ed2e3085d0bdd4c3c25a1847e519eddeb769191d36d02ea9f92e5330"
+      },
+      {
+        "path": "bundles/wei/README.md",
+        "bytes": 740,
+        "sha256": "a31a59f96dabe50f125bfaa1e412b099230ee138950325cebf30effa51b6cbcf"
+      },
+      {
+        "path": "bundles/wei/visual.json",
+        "bytes": 321,
+        "sha256": "6c5dd1fdfd9acc6028608db8daa80349e06a69127ebf27299b65f34aa71b1046"
+      }
+    ]
+  },
+  {
+    "directory": "zeus",
+    "id": "zeus",
+    "name": "Adebayo Okonkwo",
+    "version": "1.0.2",
+    "tracked": false,
+    "files": [
+      {
+        "path": "bundles/zeus/agent.md",
+        "bytes": 6265,
+        "sha256": "1521a52335541f893c850a77e930fa66e2ebbecc559365275c9bd951277f24d6"
+      },
+      {
+        "path": "bundles/zeus/manifest.json",
+        "bytes": 1429,
+        "sha256": "723ad77b3c571e5d426751efddff0bcfb98ae7ac19ff7b07ba44e00b978ec35e"
+      },
+      {
+        "path": "bundles/zeus/portrait.png",
+        "bytes": 7940887,
+        "sha256": "296dd16890b454b109e3913a9f04567c709a73ccbcbcf7223ca8d813b8e84e08"
+      },
+      {
+        "path": "bundles/zeus/README.md",
+        "bytes": 198,
+        "sha256": "72f30a99dd19d9c581893cd369bb8de85a6973aac84fddc32508ca30cb7950e0"
+      },
+      {
+        "path": "bundles/zeus/visual.json",
+        "bytes": 284,
+        "sha256": "f9e7ad83109d31c0f16b438fd40dd8029f4e21ecef308128dd73922e7589387d"
+      }
+    ]
+  }
+]
