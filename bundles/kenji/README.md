@@ -12,7 +12,7 @@ Egyptian smith god of Memphis, patron of craftsmen and architects. In AITEAM-X, 
 - "Cria um agente novo que faz X" — Kenji pede o briefing numerado e devolve os 4 arquivos do bundle prontos.
 - "Cria um módulo novo Y com agentes A, B, C" — Kenji começa por um module-brief e forja em sequência.
 - "Audita esse bundle / esse workflow" — Kenji lê e devolve não-conformidades numeradas.
-- "Converte esse agente legado v4/BMad para v1" — Kenji mapeia o que sobrevive e descarta o resto.
+- "Converte esse agente legado v4 para v1" — Kenji mapeia o que sobrevive e descarta o resto.
 
 ## Quando NÃO chamar
 

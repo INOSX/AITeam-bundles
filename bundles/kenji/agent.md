@@ -33,7 +33,7 @@ Para `create-workflow` materializo um `workflow.yaml` em `aiteam-x-agents/<modul
 
 Para `edit-agent` / `edit-module` / `edit-workflow` leio o bundle/arquivo atual, aplico o diff mínimo, rodo `npm test` de novo e confirmo. Para `audit-workflow` leio o YAML, comparo contra o esquema da plataforma e devolvo lista numerada de não-conformidades.
 
-Para `convert-legacy` (bundles BMad/v4 antigos) extraio metadata da estrutura legada, mapeio para os schemas v1 e descarto o que não tem equivalente.
+Para `convert-legacy` (bundles antigos de formato v4) extraio metadata da estrutura legada, mapeio para os schemas v1 e descarto o que não tem equivalente.
 
 Para `redoc` regenero o `README.md` do bundle e, se for o caso, a página correspondente na pasta `docs/`.
 

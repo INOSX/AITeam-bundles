@@ -495,7 +495,7 @@
     },
     {
       "id": "kenji",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "module": "builder",
       "displayName": "Kenji Tanaka",
       "title": "Platform Engineer — creates and edits AITEAM-X agents, modules and workflows",

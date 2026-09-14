@@ -4,8 +4,7 @@
 
 - GitHub INOSX/AITeam-bundles é a fonte principal. Git INOSX/AgentOS-Bundles é backup privado.
 - Adebayo Okonkwo será o **Administrador da equipe**.
-- Usar a metodologia de criação do BMad Builder; não instalar nem executar o Builder.
-- Usar BMad Help como inspiração para orientação contextual e coordenação.
+- Criar agentes a partir de identidade profissional, capacidades e critérios de qualidade próprios.
 - Aprovar o desenho profissional antes da integração da nova programação na Web.
 
 ## BND-01 — Inventário concluído
@@ -51,18 +50,13 @@ GitHub e a publicação desse catálogo ainda pertence a ADE-03/BND-04.
 | --- | --- | --- |
 | BND-01 | Concluída | Inventário, proveniência, preservação e validação do publicado |
 | BND-02 | Concluída | Cinco branches iguais, sem tags na origem; clone de recuperação e git fsck aprovados |
-| ADE-01 | Preparada para revisão | Aprovação de `adebayo-design.md` pelo proprietário |
-| ADE-02 | Pendente | Repertório detalhado, memória e colaboração a partir do desenho aprovado |
-| BND-03 | Pendente | Formato implementável e validado do novo bundle |
+| ADE-01 | Definição operacional candidata | Revisão do pacote em `agents/adebayo/`, incluindo persona, regras e guardrails |
+| ADE-02 | Repertório candidato documentado | Cinco capacidades, memória e colaboração; aprovação e prova comportamental pendentes |
+| BND-03 | Estrutura documental candidata | 17 arquivos com referências válidas; empacotamento e validação de runtime pendentes |
 | ADE-03 | Pendente | Integração Web e capacidades executáveis |
 | ADE-04 | Pendente | Testes comportamentais e homologação humana |
 | BND-04 | Pendente | Publicação da programação aprovada e backup conferido |
 
-## Referências estudadas, não dependências de execução
-
-- https://github.com/bmad-code-org/BMAD-METHOD/blob/main/skills/bmad/SKILL.md
-- https://github.com/bmad-code-org/BMAD-METHOD/blob/main/skills/bmad/references/help.md
-- https://bmad-builder-docs.bmad-method.org/reference/builder-commands/
-- https://github.com/bmad-code-org/bmad-builder/blob/main/skills/bmad-agent-builder/references/agent-quality-principles.md
+## Limites desta etapa
 
 Não foram feitas chamadas de IA de produto, mudanças de permissões ou deploy nesta etapa.

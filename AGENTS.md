@@ -16,6 +16,12 @@ active agent instructions. Human approval of the professional design precedes
 implementation of the new runtime behavior. Legacy bundles remain compatible
 until an approved replacement is implemented and validated.
 
+The candidate agent instruction package is under `agents/adebayo/`; it is not
+installed by the legacy catalog. Keep implementation status explicit. Agent
+definitions and repository documents must use INOSX product terminology and
+must not include external agent-authoring framework references or research notes.
+Do not copy third-party templates or remove required license notices.
+
 ## Commands
 
 ```bash
