@@ -26,6 +26,11 @@ Na integração, os metadados de publicação serão derivados deste pacote; nã
 cópias editáveis independentes da mesma persona.
 
 Dados de usuários, memórias e conversas não pertencem ao repositório.
+
+O manifesto em manifest.json declara os recursos do pacote. O retrato original
+e a configuração visual são preservados em assets/. Execute npm run package:agents
+na raiz para gerar o envelope distribuível. Sua integração ao catálogo autenticado
+e ao runtime Web ainda está pendente. Consulte docs/agent-package-standard.md na raiz.
 MEMORY.md especifica comportamento; não contém memória pessoal real.
 
 ## Responsabilidade de validação

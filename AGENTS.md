@@ -22,6 +22,12 @@ definitions and repository documents must use INOSX product terminology and
 must not include external agent-authoring framework references or research notes.
 Do not copy third-party templates or remove required license notices.
 
+The approved professional package architecture is documented in
+`docs/agent-package-standard.md`. Source packages under `agents/` use their own
+manifest and assets directory; the legacy Bundle Contract below applies only
+to `bundles/`. Run `npm test` and `npm run package:agents` for professional
+package changes. Generated `dist/` output is not an independently editable source.
+
 ## Commands
 
 ```bash

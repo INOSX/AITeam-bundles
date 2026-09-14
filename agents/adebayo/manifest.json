@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "adebayo",
+  "name": "Adebayo Okonkwo",
+  "role": "Administrador da equipe",
+  "version": "0.1.0-candidate",
+  "core": [
+    "AGENT.md",
+    "PERSONA.md",
+    "RULES.md",
+    "GUARDRAILS.md",
+    "ACTIVATION.md",
+    "CAPABILITIES.md",
+    "QUALITY.md"
+  ],
+  "support": [
+    "MEMORY.md",
+    "COLLABORATION.md",
+    "WORKFLOW.md"
+  ],
+  "capabilities": [
+    "capabilities/organize.md",
+    "capabilities/decide.md",
+    "capabilities/draft.md",
+    "capabilities/follow-up.md",
+    "capabilities/coordinate.md"
+  ],
+  "assets": {
+    "visual": "assets/visual.json",
+    "portrait": "assets/portrait.png"
+  }
+}

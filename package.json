@@ -8,7 +8,8 @@
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "check-catalog": "node scripts/check-catalog.mjs",
-    "test": "npm run validate && npm run check-catalog"
+    "test": "npm run validate && npm run check-catalog && node --test scripts/package-agent.test.mjs",
+    "package:agents": "node scripts/package-agent.mjs"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
