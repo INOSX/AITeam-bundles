@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 export const core = ['AGENT.md','PERSONA.md','RULES.md','GUARDRAILS.md','ACTIVATION.md','CAPABILITIES.md','QUALITY.md'];
 export const support = ['MEMORY.md','COLLABORATION.md','WORKFLOW.md'];
 export const capabilities = ['capabilities/organize.md','capabilities/decide.md','capabilities/draft.md','capabilities/follow-up.md','capabilities/coordinate.md'];
+const maxCapabilities = 32;
 const sha = bytes => crypto.createHash('sha256').update(bytes).digest('hex');
 export function packageAgent(root) {
   root = path.resolve(root);
@@ -40,8 +41,9 @@ export function packageAgent(root) {
     manifest.assets.portrait,manifest.assets.visual,'evaluations.json','README.md'];
   if (new Set(names).size !== names.length) throw Error('Duplicate resources');
   if (names.some(name=>typeof name!=='string' || !/^[A-Za-z0-9_-]+(?:\/[A-Za-z0-9_-]+)*\.[A-Za-z0-9]+$/.test(name))) throw Error('Invalid resource path');
-  if (JSON.stringify(manifest.support) !== JSON.stringify(support) ||
-      JSON.stringify(manifest.capabilities) !== JSON.stringify(capabilities)) throw Error('Incomplete professional resources');
+  if (JSON.stringify(manifest.support) !== JSON.stringify(support)) throw Error('Incomplete professional resources');
+  if (manifest.capabilities.length < 1 || manifest.capabilities.length > maxCapabilities ||
+      manifest.capabilities.some(name => !/^capabilities\/[A-Za-z0-9_-]+\.md$/.test(name))) throw Error('Invalid capabilities');
   const resources = names.sort().map(name => {
     const bytes = read(name);
     if (name === manifest.assets.portrait && bytes.subarray(0,8).toString('hex') !== '89504e470d0a1a0a') throw Error('Invalid PNG');
@@ -51,7 +53,7 @@ export function packageAgent(root) {
   if(resources.reduce((sum,r)=>sum+r.size,0)>12*1024*1024) throw Error('Package too large');
   const agent = Buffer.from(resources.find(r=>r.path==='AGENT.md').data,'base64').toString('utf8');
   if (!agent.includes(`id: ${manifest.id}\n`) || !agent.includes(`version: ${manifest.version}\n`)) throw Error('Identity mismatch');
-  const ordered = [...core,...support,...capabilities];
+  const ordered = [...core,...support,...manifest.capabilities];
   const instructions = ordered.map(name => {
     const resource=resources.find(r=>r.path===name);
     return `\n<agent-resource path="${name}" sha256="${resource.sha256}">\n${Buffer.from(resource.data,'base64').toString('utf8')}\n</agent-resource>\n`;
@@ -64,8 +66,18 @@ export function packageAgent(root) {
 }
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const repo = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-  const output = packageAgent(path.join(repo,'agents','adebayo'));
+  const agents = fs.readdirSync(path.join(repo,'agents'),{withFileTypes:true})
+    .filter(entry => (entry.isDirectory() || entry.isSymbolicLink()) &&
+      fs.existsSync(path.join(repo,'agents',entry.name,'manifest.json')))
+    .map(entry => entry.name).sort();
+  const outputs = agents.map(id => {
+    const output = packageAgent(path.join(repo,'agents',id));
+    if (JSON.parse(output).manifest.id !== id) throw Error('Agent directory identity mismatch');
+    return {id,output};
+  });
   fs.mkdirSync(path.join(repo,'dist','agents'),{recursive:true});
-  fs.writeFileSync(path.join(repo,'dist','agents','adebayo.json'),output);
-  console.log('Adebayo package generated; SHA-256 '+sha(output));
+  for (const {id,output} of outputs) {
+    fs.writeFileSync(path.join(repo,'dist','agents',id+'.json'),output);
+    console.log(id+' package generated; SHA-256 '+sha(output));
+  }
 }

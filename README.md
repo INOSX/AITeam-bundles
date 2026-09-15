@@ -70,3 +70,12 @@ Versioning: each bundle has its own semver in `manifest.json -> version`. The ca
 ## License
 
 MIT - see [LICENSE](LICENSE).
+
+## INOSX AgentOS professional packages
+
+The editable professional packages live under `agents/`, separately from the legacy
+catalog above. See [the package standard](docs/agent-package-standard.md).
+[Adebayo](agents/adebayo/README.md) provides the established structure;
+[Priya](agents/priya/README.md) is a new candidate awaiting design review and runtime
+validation. Run `npm test` and `npm run package:agents`. Repository publication does
+not automatically install a professional package or change the signed catalog.

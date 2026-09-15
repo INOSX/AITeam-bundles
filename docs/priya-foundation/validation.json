@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-15",
+  "status": "CANDIDATE_STRUCTURALLY_VALIDATED_NOT_ACTIVATED",
+  "legacyBundlesValidated": 30,
+  "packageTestsPassed": 16,
+  "evaluationCases": 20,
+  "evaluationCasesExecuted": 0,
+  "localReferencesChecked": 11,
+  "runtimeDocuments": 15,
+  "runtimeBytes": 21170,
+  "runtimeSha256": "3fa5112a3181393c4b53dacb88f90e0f522aaccfa5b8be16cae91bf1c77437db",
+  "portraitSha256": "af5ed83a6455f03a0d7d20a4667b484e50a5151c9a7132733f56686d76f5b663",
+  "adebayoEnvelopeUnchanged": true,
+  "adebayoEnvelopeSha256": "db563ce5bbd3097e0c7bc050b405ed32a4b0228591d4ecba85cc1f3c9c20d503",
+  "runtimeActivation": false,
+  "newProviderCalls": 0
+}

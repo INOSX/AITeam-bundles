@@ -41,3 +41,15 @@ Essa projeção pode preencher agentInstructions no catálogo assinado existente
 O runtime não precisa buscar arquivos por links nem escolher capacidades por
 palavras-chave. O agente recebe todas as capacidades e aplica as pertinentes.
 Uma futura estratégia de carregamento seletivo exige sua própria validação.
+
+## Mais de um pacote profissional
+
+Cada manifesto declara entre 1 e 32 capacidades em caminhos distintos
+`capabilities/*.md`, na ordem da projeção de execução. Núcleo e documentos
+auxiliares continuam obrigatórios. A lista do Adebayo não é um requisito para
+outra persona: a Priya possui pergunta, análise, comparação, interessados e síntese.
+
+O comando `npm run package:agents` percorre os diretórios com manifesto em ordem
+alfabética, valida todos antes de escrever e gera um envelope por agente. A inclusão
+de Priya não altera o envelope existente do Adebayo. O catálogo legado `index.json`
+continua separado; a presença em `agents/` não ativa o pacote no produto.
