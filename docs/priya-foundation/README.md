@@ -1,6 +1,6 @@
 # Priya — pacote profissional para revisão
 
-Estado: **CANDIDATO PUBLICÁVEL NO REPOSITÓRIO; NÃO ATIVADO NO PRODUTO**.
+Estado: **DESIGN APROVADO; INTEGRAÇÃO LOCAL EM ANDAMENTO; NÃO ATIVADO NO PRODUTO**.
 Data: 15/09/2026.
 
 ## Entrega e responsabilidades
@@ -44,14 +44,21 @@ mudar o identificador das conversas ou ampliar as rotas.
 | PRI-01 | Inventário e delimitação de papel | CONCLUÍDA |
 | PRI-02 | Pacote profissional candidato e recursos visuais | CONCLUÍDA |
 | PRI-03 | Empacotamento determinístico e verificações estruturais | CONCLUÍDA: 16 testes; 30 bundles legados válidos; ver validation.json |
-| PRI-04 | Revisão do pacote pelo responsável pelo produto | PENDENTE |
-| PRI-05 | Integração em Preview e execução dos cenários | PENDENTE |
+| PRI-04 | Revisão do pacote pelo responsável pelo produto | CONCLUÍDA: aprovação em 15/09/2026 |
+| PRI-05 | Integração em Preview e execução dos cenários | PARCIAL: integração local validada; publicação e avaliação real pendentes |
 | PRI-06 | Homologação humana e promoção para produção | PENDENTE |
 
-A aprovação do padrão arquitetural permitiu criar este candidato. A revisão
-específica da Priya antecede a alteração de seu comportamento instalado, conforme
-o protocolo do repositório. Não há alteração na aplicação Web, no catálogo assinado,
-no legado ou nos limites do beta nesta etapa.
+A aprovação do candidato foi recebida em 15/09/2026, mediante instrução para
+prosseguir após a apresentação do pacote. Isso autoriza sua integração e teste
+em Preview. A promoção para produção depende da avaliação e homologação.
+A projeção Web preserva a identidade architect, o Adebayo homologado e a rota
+Adebayo → Priya. A janela operacional de Preview deve estar válida antes de
+executar chamadas reais. Os cenários comportamentais continuam não executados.
+
+Na integração local Web, 1.488 testes passaram e 88 foram ignorados pela
+configuração existente; a verificação de tipos passou. O candidato foi preparado
+a partir do catálogo Web 1.2.0, com assinatura original verificada e alteração
+restrita à Priya. Essa evidência técnica não ativa o pacote no produto.
 
 ## Critérios de avaliação
 

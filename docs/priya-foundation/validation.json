@@ -1,6 +1,8 @@
 {
   "date": "2026-09-15",
-  "status": "CANDIDATE_STRUCTURALLY_VALIDATED_NOT_ACTIVATED",
+  "status": "DESIGN_OWNER_APPROVED_WEB_INTEGRATION_IN_PROGRESS",
+  "ownerApproval": { "date": "2026-09-15", "scope": "Priya candidate integration and evaluation in Preview" },
+  "webLocalIntegration": { "passed": 1488, "skipped": 88, "failed": 0, "typecheck": "passed", "changedEmployees": ["inosx.core.priya"], "signedBaselineVerified": true, "deployed": false },
   "legacyBundlesValidated": 30,
   "packageTestsPassed": 16,
   "evaluationCases": 20,
