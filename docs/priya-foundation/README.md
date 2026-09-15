@@ -60,6 +60,14 @@ configuração existente; a verificação de tipos passou. O candidato foi prepa
 a partir do catálogo Web 1.2.0, com assinatura original verificada e alteração
 restrita à Priya. Essa evidência técnica não ativa o pacote no produto.
 
+## Preparação de Preview em 15/09
+
+O acesso e o banco isolado foram preparados até 19:10 UTC, preservando consumo,
+limites e sessão obrigatória. Os 41 testes do assinador passaram. A confirmação
+protegida da chave de Preview no Windows não foi concluída antes do vencimento.
+Não houve assinatura final, ativação da Priya ou chamada de inferência.
+Os 20 cenários permanecem não executados. A entrega ainda não está homologada.
+
 ## Critérios de avaliação
 
 A avaliação distingue integridade técnica, comportamento observado e aceite

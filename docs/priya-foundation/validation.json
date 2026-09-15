@@ -1,6 +1,7 @@
 {
   "date": "2026-09-15",
-  "status": "DESIGN_OWNER_APPROVED_WEB_INTEGRATION_IN_PROGRESS",
+  "status": "LOCAL_INTEGRATION_VALIDATED_PREVIEW_SIGNATURE_PENDING_WINDOW_EXPIRED",
+  "previewPreparation": { "date": "2026-09-15", "signerTestsPassed": 41, "accessAndDatabasePrepared": true, "runtimeActivated": false, "inferenceCalls": 0, "blocker": "Windows protected signing not completed before Preview expiry" },
   "ownerApproval": { "date": "2026-09-15", "scope": "Priya candidate integration and evaluation in Preview" },
   "webLocalIntegration": { "passed": 1488, "skipped": 88, "failed": 0, "typecheck": "passed", "changedEmployees": ["inosx.core.priya"], "signedBaselineVerified": true, "deployed": false },
   "legacyBundlesValidated": 30,
