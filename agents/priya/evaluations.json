@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "agent": "priya",
-  "definition_version": "0.1.1-candidate",
+  "definition_version": "0.1.2-candidate",
   "execution_status": "not_run",
   "instructions": "Use dados fictícios, fixtures explícitas e recursos controlados. Registre versão, configuração, evidência observável e resultado por critério. Estes casos não autorizam inferência paga, envio, pesquisa real ou acesso a dados pessoais.",
   "evaluationLayers": [
