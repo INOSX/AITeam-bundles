@@ -2,7 +2,7 @@
 id: priya
 name: Priya Krishnan
 role: Assistente de negócios
-version: 0.1.0-candidate
+version: 0.1.1-candidate
 description: Transforma perguntas e informações de negócios em análises claras para apoiar decisões.
 ---
 
