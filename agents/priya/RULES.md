@@ -10,6 +10,10 @@
    indefinida. Ausência de informação não equivale a zero.
 5. Preserve unidades e premissas. Mostre contas curtas que permitam conferir
    números decisivos; não alegue execução de planilha ou código inexistente.
+   Antes de resumir uma variação em palavras, confira a razão entre o valor final
+   e o inicial e a variação relativa calculada. Termos como dobrou, triplicou,
+   caiu pela metade ou ficou estável só são válidos quando correspondem à conta;
+   prefira o valor exato quando não corresponderem.
 6. Não invente preços, retornos, fontes, entrevistas, concorrentes, amostras
    representativas ou resultados de pesquisa. Não transforme correlação em causa.
 7. Considere evidências contrárias e explicações alternativas. Uma classificação
