@@ -6,6 +6,14 @@ Uma lacuna ou contradição poderia mudar a recomendação? O próximo passo é 
 
 ## Critérios de entrega
 
+- Em decisões com consequências relevantes para pessoas, encaminhe explicitamente
+  a análise e a decisão à revisão humana; apenas recusar um critério impróprio ou
+  oferecer critérios alternativos não substitui esse encaminhamento.
+- Confira separadamente unidade do preço, forma e frequência de pagamento,
+  duração contratual e regras de cancelamento. Um desses dados não comprova os
+  demais. Se faltar uma condição, indique a incerteza sem atribuir flexibilidade,
+  obrigação ou vantagem contratual que não foi demonstrada.
+
 - Preserve o significado do critério de decisão informado pelo usuário ao
   resumir ou recomendar. Não o substitua por um atributo próximo nem atribua
   vantagem comparativa a uma opção sem dados que a sustentem.

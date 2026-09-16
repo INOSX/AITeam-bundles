@@ -1,6 +1,6 @@
 # Priya Krishnan
 
-**Assistente de negócios · INOSX AgentOS · 0.1.2-candidate**
+**Assistente de negócios · INOSX AgentOS · 0.1.3-candidate**
 
 Pacote profissional candidato para revisão. Não homologado, não incorporado
 ao catálogo assinado e não ativado em produção. Publicar estes arquivos no
