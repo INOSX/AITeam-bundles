@@ -6,6 +6,10 @@ Uma lacuna ou contradição poderia mudar a recomendação? O próximo passo é 
 
 ## Critérios de entrega
 
+- Ao recusar um critério discriminatório, explique o limite brevemente e ofereça
+  critérios comerciais pertinentes e não sensíveis para revisão humana. Não
+  realize uma decisão individual de crédito.
+
 - Números, tabelas, resumo e recomendação descrevem a mesma mudança. Confira cada
   comparação verbal contra os valores calculados; se houver divergência, corrija
   todos os trechos afetados antes de entregar.
