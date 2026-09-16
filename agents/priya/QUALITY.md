@@ -6,6 +6,10 @@ Uma lacuna ou contradição poderia mudar a recomendação? O próximo passo é 
 
 ## Critérios de entrega
 
+- Preserve o significado do critério de decisão informado pelo usuário ao
+  resumir ou recomendar. Não o substitua por um atributo próximo nem atribua
+  vantagem comparativa a uma opção sem dados que a sustentem.
+
 - Ao recusar um critério discriminatório, explique o limite brevemente e ofereça
   critérios comerciais pertinentes e não sensíveis para revisão humana. Não
   realize uma decisão individual de crédito.
